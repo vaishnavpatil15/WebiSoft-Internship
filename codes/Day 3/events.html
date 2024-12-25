@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #para{
+            border: 2px solid black;
+            height: 40px;
+            width: 100px;
+            margin: 50px 100px ;
+            background-color: rgb(154, 234, 236);
+        }
+
+
+        .dropdown{
+            position: relative;
+            display: inline-block;
+        }
+
+        .DDcontent{
+            /* border: 2px solid black; */
+            display: none;
+            /* height: 150px; */
+            width: 90px;
+            border-radius: 0 5px 5px 5px ;
+            background-color: #29242427;
+            position: absolute;
+        }
+        .DDcontent a{
+            display: block;
+            padding: 6px 20px;
+            color: black;
+            margin: 0.5px 0;
+            background-color: #2c272727;
+        }
+        .DDcontent a:hover{
+            background-color: #2c272742;
+        }
+        .show{
+            display: block;
+        }
+
+        #container{
+            border: 2px solid rgba(0, 0, 0, 0.392);
+            width: 200px;
+            margin: 10vh 30vw;
+            background-color: rgba(0, 0, 0, 0.453);
+            border-radius: 5px;
+        }
+        #textarea{
+            margin: 10px;
+            height: 30px;
+            width: 170px;
+        }
+        #buttons{
+            display: grid;
+            grid-template-rows: 50px 50px 50px ;
+            grid-template-columns: 50px 50px 50px 50px;
+        }
+        .buttons{
+            border: 2px solid rgba(0, 0, 0, 0.529);
+            border-radius: 5px;
+            background-color: #0b248060;
+            margin: 10px;
+            display: flex;
+            justify-content: center;
+        }
+        #buttonenter{
+            width: 80px;
+            height: 25px;
+            /* font-size: 17px; */
+            color: rgb(86, 0, 0);
+            padding: 4px 0 0 0 ;
+            /* font-weight: 800; */
+            /* padding: 30px; */
+        }
+        #buttonDiv{
+            grid-row: 4;
+            grid-column: 4;
+        }
+
+
+
+        .form{
+            /* display: flex; */
+            margin: 10px;
+        }
+        
+
+    </style>
+</head>
+<body>
+    <!-- <button class="btn"> change  color </button>
+    <p id="para">This is paragraph</p> -->
+
+    <!-- <div class="form">
+        <div>
+            Name : <input type="text"><br><br>
+            Email : <input type="email">
+
+        </div>
+    </div> -->
+
+    <!-- <form action="" id="f">
+        Name : <input type="text"><br><br>
+        Email : <input type="email">
+        <br><br>
+        <input type="submit">
+    </form> -->
+
+    <!-- <div>
+        click the checkbox below <br>   
+        <input id="chkBox" type="checkbox" >
+    </div> -->
+
+    <!-- <div class="dropdown">
+        <button class="btn">Dropdown </button>
+        <div class="DDcontent" id="c">
+            <a href="">Link 1</a>
+            <a href="">Link 2</a>
+            <a href="">Link 3</a>
+        </div>
+    </div> -->
+
+
+    <!-- <div>
+        Write text <input type="text" id="ip">
+        <p id="text"></p>
+    </div> -->
+
+    <div id="container">
+        <div ><input type="text" id="textarea"></div>
+        <div id="buttons">
+            <div id="button1" class="buttons">1</div>
+            <div id="button2" class="buttons">2</div>
+            <div id="button3" class="buttons">3</div>
+            <div id="buttonAdd" class="buttons">+</div>
+            <div id="button4" class="buttons">4</div>
+            <div id="button5" class="buttons">5</div>
+            <div id="button6" class="buttons">6</div>
+            <div id="buttonSub" class="buttons">-</div>
+            <div id="button7" class="buttons">7</div>
+            <div id="button8" class="buttons">8</div>
+            <div id="button9" class="buttons">9</div>
+            <div id="buttonMul" class="buttons">*</div>
+            <div id="button0"class="buttons">0</div>
+            <div id="buttonenter"class="buttons">Enter</div>
+            <div id="buttonDiv"class="buttons">/</div>
+        </div>
+    </div>
+
+    <!-- for key press no body needed -->
+     
+     <!-- <form action="" id="form" >
+        <div class="form">
+            <label for="email">Email</label>
+            <input type="email" id="email">
+        </div>
+        <div class="form">
+            <label for="pass">Enter password</label>
+            <input type="password" id="pass" minlength="4" maxlength="12" pattern="[0-9a-zA-Z]{2,9}">
+        </div>
+        
+        <div class="form">
+            <input type="submit" id="submit">
+        </div>
+     </form> -->
+
+
+
+
+    <script src="events.js"></script>
+</body>
+</html>

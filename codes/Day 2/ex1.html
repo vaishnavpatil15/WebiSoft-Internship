@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // document.write("hello")
+        // let n=Number(prompt("enter number"))
+        // switch(n){
+        //     case 1:
+        //         console.log("Monday");
+        //         document.write("Monday")
+        //         break
+        //     case 2:
+        //         console.log("Tuesday");
+        //         document.write("Tuesday")
+        //         break
+        //     case 3:
+        //         console.log("Wednesday");
+        //         document.write("Wednesday")
+        //         break
+        //     case 4:
+        //         console.log("Thursday");
+        //         document.write("Thursday")   
+        //         break
+        //     case 5:
+        //         console.log("Friday");
+        //         document.write("Friday")
+        //          break
+        //     case 6:
+        //         console.log("Saturday");
+        //         document.write("Saturday")
+        //         break
+        //     case 7:
+        //         console.log("Sunday");
+        //         document.write("Sunday")        
+        //         break
+        //     default:
+        //         console.log("invalid");
+        //         document.write("invalid")
+        // }
+
+
+
+        // let c= prompt("enter character")
+        // switch(c){
+        //     case "a":
+        //         console.log("Vowel");
+        //         break
+        //     case "e":
+        //         console.log("Vowel");
+        //         break
+        //     case "i":
+        //         console.log("Vowel");
+        //         break
+        //     case "o":
+        //         console.log("Vowel");
+        //         break
+        //     case "u":
+        //         console.log("Vowel");
+        //         break
+        //     default:
+        //         console.log("Consonant");       
+        // }
+
+
+        // switch(n%2){
+        //     case 0:
+        //         console.log("even");
+        //         break
+        //     case 1:
+        //         console.log("odd");
+        //         break;
+        //     default:
+        //         console.log("invalid");
+        //         break                
+        // }
+
+
+        // switch(n){
+        //     case 1:
+        //         console.log("January");
+        //         break
+        //     case 2:
+        //         console.log("February");
+        //         break
+        //     case 3: 
+        //         console.log("March");
+        //         break
+        //     case 4:
+        //         console.log("April");
+        //         break
+        //     case 5:
+        //         console.log("May");
+        //         break
+        //     case 6:
+        //         console.log("June");
+        //         break
+        //     case 7:
+        //         console.log("July");
+        //         break
+        //     case 8:
+        //         console.log("August");
+        //         break
+        //     case 9:
+        //         console.log("September");
+        //         break
+        //     case 10:
+        //         console.log("October");
+        //         break
+        //     case 11:
+        //         console.log("November");
+        //         break
+        //     case 12:
+        //         console.log("December");
+        //         break
+        //     default:
+        //         console.log("Invalid month");
+        //         break     
+        // }
+
+        // switch(n%400==0 || (n%4==0 && n%100!=0)){
+        //     case true:
+        //         console.log("Leap year");
+        //         break
+        //     case false:
+        //         console.log("Not leap year");
+        //         break
+        //     default:
+        //         console.log("invalid");       
+        // }
+
+
+        // let a=prompt("enter numbers")
+        // arr=a.split(" ")
+        // arr[0]=Number(arr[0])
+        // arr[1]=Number(arr[1])
+
+        // o=prompt("Enter operation to perform on the numbers\n 1) addition \n 2) substraction \n 3) multiplication \n 4) division ")
+        // o=Number(o)
+        // switch(o)
+        // {
+        //     case 1:
+        //         console.log(`Addition of ${arr[0]} and ${arr[1]} is ${arr[0]+arr[1]}`);
+        //         break
+        //     case 2:
+        //         console.log(`Substraction of ${arr[0]} and ${arr[1]} is ${arr[0]-arr[1]}`);
+        //         break
+        //     case 3:
+        //         console.log(`Multiplication of ${arr[0]} and ${arr[1]} is ${arr[0]*arr[1]}`);
+        //         break
+        //     case 4:
+        //         console.log(`Division of ${arr[0]} and ${arr[1]} is ${arr[0]/arr[1]}`);
+        //         break
+        //     default:
+        //         console.log("invalid operation");
+                
+        // }
+
+
+        
+        i=0
+        setInterval(() => {
+            i+=1
+            switch(i){
+                case 1:
+                    document.querySelector(".g").classList.remove("green")
+                    
+                    document.querySelector(".r").classList.toggle("red")
+                    break
+                case 2:
+                    document.querySelector(".r").classList.remove("red")
+                    document.querySelector(".y").classList.toggle("yellow")
+                    break
+                case 3:
+                    document.querySelector(".y").classList.remove("yellow")
+                    document.querySelector(".g").classList.toggle("green")
+                    
+                    break
+                default:
+                    break
+
+            }
+            if (i==3){
+                i=0
+            }
+        } ,1000)
+        
+
+    </script>
+    <style>
+        .signal{
+            display: flex;
+            height: 30px;
+            width: 30px;
+            border-radius: 200px;
+            margin: 5vh 40vw;
+            padding: 30px;
+            border: 2px solid black;
+        }
+        .red{
+            background-color: red;
+        }
+        .yellow{
+            background-color: yellow;
+        }
+        .green{
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <div class="signal r" ></div>
+    <div class="signal y" ></div>
+    <div class="signal g" ></div>
+</body>
+</html>

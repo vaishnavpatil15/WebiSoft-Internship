@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <button id="btn">Show User Information</button> -->
+    <script>
+        let url= window.location.href
+        // let url = "http://127.0.0.1:3000/page_redirection_4_success.html?fname=Vaishnav&lname=Patil&username=vaishnavpatil15&password=abc%40123"
+    
+        let string = url.split("?")[1]
+        let info=string.split("&")
+        // function showInfo(){
+        //     document.write("<br> User Information : <br><br>")
+        //     for(i=0;i<info.length;i++){
+        //         let entry = info[i].split("=")
+        //         document.write(entry[0]," : ",entry[1],"<br>")
+        //     }
+        // }
+        
+        skey=[]
+        sval=[]
+        
+        for(i=0;i<info.length;i++){
+            skey[i]=info[i].split("=")[0]
+            sval[i]=info[i].split("=")[1]
+        }
+        if(sval[2]=="vaishnav15" && sval[3]=="abc123"){
+            document.write("<br> User Information : <br><br>")
+            for(i=0;i<sval.length;i++){
+                document.write(skey[i]," : ",sval[i],"<br>")
+            }
+        }
+        else{
+            document.write("Invalid username or password")
+            alert("invalid user information")
+        }
+        
+        
+    </script>
+</body>
+</html>

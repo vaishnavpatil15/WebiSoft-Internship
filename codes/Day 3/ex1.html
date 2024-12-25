@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        // function HelloWorld(name, age){
+        //     alert("Hello world!")
+        //     document.write(name + " is now " + age)
+
+        // }
+
+        // function concatinate(first, last){
+        //     var full;
+        //     full = first + last;
+        //     return full;
+        // }
+
+        // function secondFunction(){
+        //    var result =  concatinate('Vaidehi ', 'Vaishnav')
+        //     document.write(result)
+        // }
+
+        // 1. Write a function that takes a name as input and returns a greeting message like "Hello, [name]!".
+        // function takeInput(name){
+        //     document.write("Hello, " + name)
+        // }
+
+        // 2. Write a function that calculates the factorial of a given non-negative integer.
+        // function factorial(number) {
+        //     while (number > 0) {
+        //         let res = 1;
+        //         for (let i = 1; i <= number; i++) {
+        //             res *= i;
+        //         }
+        //         return res;
+
+        //     }
+        // }
+        // document.write(factorial(5));
+
+        // 3. Write a function that determines whether a given number is even or odd.
+        function checkEvenOdd(number) {
+            if (number % 2 == 0) {
+                return "Even";
+            } else {
+                return "Odd";
+            }
+        }
+        // document.write(checkEvenOdd(5));
+
+
+        // 4. Write a function that checks if a given number is a prime number.
+        // function isPrime(number) {
+        //     if (number <= 1) {
+        //         return false;
+        //     }
+        //     for (let i = 2; i < number; i++) {
+        //         if (number % i === 0) {
+        //             return false;
+        //         }
+        //     }
+        //     return true;
+        // }
+        // document.write(isPrime(6));
+
+        // function palindrome(name){
+        //     var result = name.split('').reverse().join('');
+        //     if(name == result){
+        //         return "Palindrome";
+        //     } else {
+        //         return "Not Palindrome";
+        //     }
+        // }
+        // document.write(palindrome('poop'));
+
+        // function countWords() {
+        //     let sentence = 'Hello i am learning JavaScript and java as well';
+        //     var count = 0;
+        //     for (i = 0; i < sentence.length; i++) {
+        //         if (sentence[i] == ' ') {
+        //             count++;
+
+        //         }
+        //     }
+
+        //     return count + 1;
+
+        // }
+        // document.write(countWords())
+
+
+        // 7. Write a function that reverses the order of elements in an array.
+        // function reverseOrder(){
+        //     let arr = [1, 2, 'a', 'b', 'c', 'd', 'e'];
+        //     let reversedArr = arr.reverse();
+        //     return reversedArr;
+        // }
+        // document.write(reverseOrder());
+
+
+        // 8. Write a function that sorts an array of numbers in ascending order.
+        function sortArraysASC() {
+            let arr = [10, 5, 8, 3, 9];
+            for (let i = 0; i < arr.length - 1; i++) {
+                for (let j = i + 1; j < arr.length; j++) {
+                    if (arr[i] > arr[j]) {
+                        let temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+            }
+            return arr;
+        }
+        // document.write(sortArraysASC());
+
+        function sortArraysDSC() {
+            let arr = [10, 5, 8, 3, 9];
+            for (let i = 0; i < arr.length - 1; i++) {
+                for (let j = i + 1; j < arr.length; j++) {
+                    if (arr[i] > arr[j]) {
+                        let temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+            }
+            return arr.reverse();
+        }
+        // document.write(sortArraysDSC());
+
+        // 9. Write a function that finds the largest number in an array.
+        function findLargestNumber() {
+            let arr = [10, 5, 8, 3, 9];
+            for (let i = 0; i < arr.length - 1; i++) {
+                for (let j = i + 1; j < arr.length; j++) {
+                    if (arr[i] > arr[j]) {
+                        let temp = arr[i];
+                        arr[i] = arr[j];
+                        arr[j] = temp;
+                    }
+                }
+            }
+            return arr[arr.length - 1];
+        }
+        // document.write(findLargestNumber());
+
+        // 10. Write a function that converts a temperature from Celsius to Fahrenheit or vice versa.
+        // function celtofar() {
+        //     let celsius = parseFloat(prompt("Enter temperature in Celsius:"));
+        //     let Fahrenheit = celsius * (9 / 5) + 32;
+        //     return Fahrenheit;
+        // }
+        // document.write(celtofar());
+
+        // function fartocel() {
+        //     let far = parseInt(prompt("Enter temperature in far"))
+        //     let celsius = (far - 32) * (5 / 9) ;
+        //     return celsius;
+        // }
+        // document.write(fartocel());
+
+        
+
+    </script>
+</head>
+
+<body>
+    <!-- <p>Click below button to see output</p> -->
+    <!-- <button onclick="HelloWorld('Vaidehi', 7)">Click Me!</button> -->
+    <!-- <button onclick="takeInput('Vaidehi')">Click Me</button> -->
+    <!-- <button onclick="document.write(factorial(5))">Click Me</button> -->
+    <!-- <button onclick="document.write(checkEvenOdd(2))">Click Me</button> -->
+</body>
+
+</html>

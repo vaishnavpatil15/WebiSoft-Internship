@@ -1,0 +1,5 @@
+for(i=0;i<response.metadata.stations.length;i++){
+            document.write( JSON.stringify(response.metadata.stations[i].name)+"  :   ")
+            document.write(JSON.stringify(response.items[0].readings[i].value)+"<br><br>" )
+            
+        }

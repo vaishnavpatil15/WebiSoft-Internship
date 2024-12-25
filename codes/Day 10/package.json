@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "colors": "^1.4.0",
+    "express": "^4.21.2"
+  },
+  "name": "day-10",
+  "version": "1.0.0",
+  "description": "hello gu",
+  "main": "error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "helo"
+  ],
+  "author": "gu",
+  "license": "ISC",
+  "devDependencies": {}
+}

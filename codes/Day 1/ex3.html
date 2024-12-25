@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        // n = prompt("enter number")
+        // if(n%2==0){
+        //     console.log("even number");
+        // }
+        // else{
+        //     console.log("odd number");    
+        // }
+
+        // if(n>0){
+        //     console.log("positive number");
+        // }
+        // else if(n<0){
+        //     console.log("negative number");           
+        // }
+        // else{
+        //     console.log("zero");
+        // }
+
+        a=10
+        b=20
+        if(a>b){
+            console.log(`${a} is greater then ${b}`);
+        }
+        else if(a<b){
+            console.log(`${a} is smaller then ${b}`);            
+        }
+        else{
+            console.log(`${a} is equal to ${b}`);            
+        }
+
+        // age=prompt("enter your age")
+        // if(age<=5){
+        //     console.log("tickets are free for children under 5");            
+        // }
+        // else if(age<=12){
+        //     console.log("the price of the ticket is $10");
+        // }
+        // else{
+        //     console.log("the price of the ticket is $20");
+        // }
+
+        let year=260
+        if(year%400==0 || (year%4==0 && year%100!=0) ){
+            console.log("It is a leap year");
+        }
+        else{
+            console.log("It is not a leap year");            
+        }
+
+        // time = 2
+        // if(time<12){
+        //     alert("GOOD MORNING!");
+        // }
+        // else if(time<=17){
+        //     alert("GOOD AFTERNOON!");
+        // }
+        // else{
+        //     alert("GOOD EVENING!");
+        // }
+
+
+        weight=prompt("enter weight in kg")
+        height=prompt("Enter height in meters")
+
+        bmi=weight/(height**2)
+        if(bmi<18.5){
+            alert(`Your BMI is ${bmi} You are UNDERWEIGHT`)
+        }
+        else if(bmi >= 18.5 && bmi <24.9){
+            alert(`Your BMI is ${bmi} You are HEALTHY`)
+        }
+        else if(bmi >= 24.9 && bmi<29.9){
+            alert(`Your BMI is ${bmi} You are OVERWEIGHT`)
+        }
+        else{
+            alert(`Your BMI is ${bmi} You are OBESE`)
+        }
+
+
+
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
