@@ -4,7 +4,7 @@ const app= express()
 // CONFIGURE TEMPLATE ENGINE EJS 
 app.set("view engine","ejs")
 
-// MIDDLE WARE THAT EXECUTES EVERYTIME BEFORE ANY ROUTE
+// --------------------  MIDDLE WARE THAT EXECUTES EVERYTIME BEFORE ANY ROUTE --------------------------------
 
 // app.use(function(req,res,next){
 //     console.log("middleware");
@@ -19,13 +19,13 @@ app.set("view engine","ejs")
 
 
 
-//  USE OF STATIC FILES (connecting css and js file to ejs file dynamically)
+// -------------------- USE OF STATIC FILES (connecting css and js file to ejs file dynamically) --------------------
 
 app.use(express.static('./public'))    
 
 
 
-//  THESE ARE ROUTES " / "
+// -------------------------- THESE ARE ROUTES " / "  ----------------------------------
 
 app.get("/",function (req,res){
     console.log("first request");
@@ -33,9 +33,9 @@ app.get("/",function (req,res){
 })
 app.listen(3000)
 
-// THESE ARE ROUTES " / " 
-// / WILL GO TO THE / PAGE OF LOCAL HOST  .... AND /PROFULE WILL GO TO  3000/PROFILE PAGE OF LOCAL HOST ....
-app.get("/profile",function (req,res){ 
+// -------------------- THESE ARE ROUTES " / "  --------------------
+//  / WILL GO TO THE / PAGE OF LOCAL HOST  .... AND /PROFULE WILL GO TO  3000/PROFILE PAGE OF LOCAL HOST ....   
+ app.get("/profile",function (req,res){ 
     res.send("Hello from Profile")
 })
 app.get("/home",function (req,res){ 
@@ -46,7 +46,7 @@ app.get("/profile/home",function (req,res){
 })
 
 
-//  DYNAMIC ROUTING USING " : "
+// --------------------  DYNAMIC ROUTING USING " : "  --------------------
 
 app.get("/profile/home/:username",function(req,res){
     res.send(`Hello from ${req.params.username}`)
@@ -60,7 +60,7 @@ app.get("/profile/ejs",function(req,res){
 })
 
 
-//  ERROR HANDLING
+// -------------------- ERROR HANDLING  --------------------
 
 app.get("/error",function(req,res){
     throw new Error("something went wrong")
