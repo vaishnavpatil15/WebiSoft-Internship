@@ -4,7 +4,6 @@ const app = express()
 app.get('/',function(req, res){
     res.send('Hello World!')
 })
-
 app.get('/calculate',function(req,res){
     const o=req.param('operation')
     const num1=req.param('num1')
@@ -25,8 +24,6 @@ app.get('/calculate',function(req,res){
         default:
             break
     }
-    
-    
 })
 
 app.listen(3000) 
