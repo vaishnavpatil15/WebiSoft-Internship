@@ -1,0 +1,1741 @@
+{
+  "state": "completed",
+  "name": "indeed",
+  "data": {
+    "scraper": {
+      "filters": {
+        "country": "us",
+        "query": "Engineer",
+        "location": "Silicon Valley"
+      },
+      "maxRows": 20
+    }
+  },
+  "id": "s5wzcu3b9qgyezekd1m2cayb",
+  "progress": 100,
+  "returnvalue": {
+    "jobs": [
+      {
+        "jobKey": "7133eb9fc3f6eeb4",
+        "location": "Santa Clara, CA 95054",
+        "company": {
+          "companyName": "Vibrant America",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Vibrant-America-2?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81ifaje21822&fromjk=7133eb9fc3f6eeb4",
+          "companyReviewLink": "https://www.indeed.com/cmp/Vibrant-America-2/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81ifaje21822&fromjk=7133eb9fc3f6eeb4&jt=Laboratory+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8c7f000b08061f56c992909b7ff3728e",
+          "headerImageUrl": null,
+          "companyRating": {}
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA 95054",
+          "jobTitle": "Laboratory Engineer",
+          "jobDescription": "<p>Company Description</p>\n<p>Vibrant Sciences and Vibrant America are leading science and technology companies delivering life-transforming laboratory services.</p>\n<p>Founded by technologists-scientists, our science-driven approach has resulted in numerous products and services in a range of diseases, including allergy, autoimmune like Celiac, connective tissue, rheumatoid arthritis and infectious diseases along with pioneering the space of preventive health wellness and longevity. In addition to our technology and world-class manufacturing operations, we are a CLIA and CAP accredited laboratory headquartered in Santa Clara, California.</p>\n<p>Essential Functions and Skills</p>\n<p>Work in a lab environment and assist in lab operations</p>\n<p>Identify and implement new manufacturing technologies, processes, or equipment.</p>\n<p>Be an active member of the team, seeking and accepting laboratory responsibilities to maintain and improve the workplace.</p>\n<p>Independently design and execute experiments, complete data analysis, associated documentation, and reports.</p>\n<p>Independently make data-driven decisions regarding project objectives and progress.</p>\n<p>Utilize prior knowledge and experience to troubleshoot and resolve issues for self or others.</p>\n<p>Document procedures, write Manufacturing Batch Records, and assist in Technology Transfer of new products to the Operations Team</p>\n<p>Implement SPC, develop process control plans and participate in operational excellence activities.</p>\n<p>Education Requirements</p>\n<p>BS/MS in Electrical Engineering, Mechanical Engineering, Material Science or equivalent</p>\n<p>0-3+ years industrial experience, preferably in the area of biomedical science</p>\n<p>Job Type: Full-time</p>\n<p>Work Remotely</p>\n<ul>\n <li>No</li>\n</ul>\n<p>Job Type: Full-time</p>\n<p>Pay: $75,000.00 - $85,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>Health insurance</li>\n <li>Paid time off</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n</ul>\n<p>Education:</p>\n<ul>\n <li>Bachelor's (Preferred)</li>\n</ul>\n<p>Experience:</p>\n<ul>\n <li>Manufacturing: 1 year (Preferred)</li>\n</ul>\n<p>Work Location: In person</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "Health insurance",
+            "Paid time off"
+          ]
+        },
+        "jobMetadata": {
+          "age": "4 days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "5",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=7133eb9fc3f6eeb4&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 85000,
+          "salaryMin": 75000,
+          "salaryType": "YEARLY",
+          "salaryText": "$75,000 - $85,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Engineer jobs in Santa Clara, CA",
+            "what": "Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-vibrant-america-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at Vibrant America in Santa Clara, CA",
+            "what": "Vibrant America",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Engineer salaries in Santa Clara, CA",
+            "what": "Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "996d6d884792e471",
+        "location": "Santa Clara, CA 95054",
+        "company": {
+          "companyName": "Vibrant America",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Vibrant-America-2?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81j2gi6km803&fromjk=996d6d884792e471",
+          "companyReviewLink": "https://www.indeed.com/cmp/Vibrant-America-2/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81j2gi6km803&fromjk=996d6d884792e471&jt=Chemical+Process+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8c7f000b08061f56c992909b7ff3728e",
+          "headerImageUrl": null,
+          "companyRating": {}
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA 95054",
+          "jobTitle": "Chemical Process Engineer",
+          "jobDescription": "<p>Company Description</p>\n<p>Vibrant Sciences and Vibrant America are leading science and technology companies delivering life-transforming laboratory services.</p>\n<p>Founded by technologists-scientists, our science-driven approach has resulted in numerous products and services in a range of diseases, including allergy, autoimmune like Celiac, connective tissue, rheumatoid arthritis and infectious diseases along with pioneering the space of preventive health wellness and longevity. In addition to our technology and world-class manufacturing operations, we are a CLIA and CAP accredited laboratory headquartered in Santa Clara, California.</p>\n<p>Essential Functions and Skills</p>\n<p>Design and develop LC/MS, ICP/MS, GC/MS projects.</p>\n<p>Work in a lab environment and assist in lab operations</p>\n<p>Leading studies to support optimization of manufacturing processes.</p>\n<p>Leading development and validation of both physical and analytical test methods</p>\n<p>Be an active member of the team, seeking and accepting laboratory responsibilities to maintain and improve the workplace.</p>\n<p>Independently design and execute experiments, complete data analysis, associated documentation, and reports.</p>\n<p>Independently make data-driven decisions regarding project objectives and progress.</p>\n<p>Utilize prior knowledge and experience to troubleshoot and resolve issues for self or others.</p>\n<p>Document procedures, write Manufacturing Batch Records, and assist in Technology Transfer of new products to the Operations Team</p>\n<p>Education Requirements</p>\n<p>BS/MS in Chemical Engineering, Material Science or equivalent</p>\n<p>0-3+ years industrial experience, preferably in the area of mass spectrometry</p>\n<p>Job Type: Full-time</p>\n<p>Work Remotely</p>\n<ul>\n <li>No</li>\n</ul>\n<p>Job Type: Full-time</p>\n<p>Pay: $70,000.00 - $80,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>Health insurance</li>\n <li>Paid time off</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n</ul>\n<p>Education:</p>\n<ul>\n <li>Bachelor's (Preferred)</li>\n</ul>\n<p>Experience:</p>\n<ul>\n <li>Manufacturing: 1 year (Preferred)</li>\n</ul>\n<p>Work Location: In person</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "Health insurance",
+            "Paid time off"
+          ]
+        },
+        "jobMetadata": {
+          "age": "4 days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "5",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=996d6d884792e471&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 80000,
+          "salaryMin": 70000,
+          "salaryType": "YEARLY",
+          "salaryText": "$70,000 - $80,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-chemical-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Chemical Engineer jobs in Santa Clara, CA",
+            "what": "Chemical Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-vibrant-america-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at Vibrant America in Santa Clara, CA",
+            "what": "Vibrant America",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Chemical+Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Chemical Engineer salaries in Santa Clara, CA",
+            "what": "Chemical Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "2e0332c701142491",
+        "location": "Redwood City, CA 94061",
+        "company": {
+          "companyName": "Amped Innovation PBC",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Amped-Innovation-Pbc-1?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81ja1ln11801&fromjk=2e0332c701142491",
+          "companyReviewLink": "https://www.indeed.com/cmp/Amped-Innovation-Pbc-1/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81ja1ln11801&fromjk=2e0332c701142491&jt=R%26D+Test+Engineer",
+          "companyLogoUrl": null,
+          "headerImageUrl": null,
+          "companyRating": {}
+        },
+        "jobInfo": {
+          "formattedLocation": "Redwood City, CA 94061",
+          "jobTitle": "R&D Test Engineer",
+          "jobDescription": "<p><b>ABOUT AMPED INNOVATION</b></p>\n<p>At Amped Innovation, we are dedicated to improving access to clean, modern solar power for the 1.2 billion people globally who currently lack access to the grid. We are a small and fast-growing product development company with over 220,000 solar systems sold across Sub-Saharan Africa and Asia. We are expanding our product family of rugged solar power banks and energy-efficient appliances for those who live beyond the reach of the grid, and we’re looking for curious, creative minds to join the team.</p>\n<p><b>POSITION SUMMARY:</b></p>\n<p>The role will give you experience in the process of designing, manufacturing and testing solar-powered appliances from the ground up. You will assist with the design and development of hardware, including circuits and execute test protocols across all Amped product lines, and generate associated reports. Your goal is to break things – find out what doesn’t work so that we can quickly iterate the design to something more robust.</p>\n<p><b>RESPONSIBILITIES:</b></p>\n<ul>\n <li>Assist with designing and developing solar appliance hardware, including circuit design, PCB layout, and prototyping.</li>\n <li>Conduct hardware testing and troubleshooting to ensure product quality and reliability</li>\n <li>Present product feedback to the R&amp;D team and iterate the product design.</li>\n <li>Build and modify test setups, equipment, troubleshooting documentation / database and reports.</li>\n <li>Collect and analyze sensor data in support of EasyFreeze product development.</li>\n <li>Audit circuits for warranty and lead root cause analysis to resolve issues.</li>\n <li>Assist with developing hardware documentation, including schematics, BOMs, and assembly instructions.</li>\n <li>Research and source components as needed.</li>\n</ul>\n<p><b>ESSENTIAL SKILLS, KNOWLEDGE, AND ABILITIES:</b></p>\n<ul>\n <li>B.S. in Electrical Engineering, Robotics or equivalent degree.</li>\n <li>Electronics knowledge and experience conducting electronics testing, including familiarity with multimeters, oscilloscopes, and power supplies.</li>\n <li>Strong understanding of circuit design, PCB layout, and hardware testing</li>\n <li>Experience with CAD software for circuit design and PCB layout</li>\n <li>Extreme attention to detail.</li>\n <li>Effective organization, prioritization, time-management, &amp; planning skills.</li>\n <li>Excellent communication. Ability to communicate ideas clearly.</li>\n <li>Experience with surface mount soldering, reading schematics, and an underlying knowledge of electronics components and how to interpret part datasheets are all a plus.</li>\n</ul>\n<p><b>LOCATION</b></p>\n<p>This position is hourly with flexibility to be part time or full-time, and is required to work from the Amped Innovation Redwood City, CA R&amp;D facility.</p>\n<p><b>APPLY NOW</b></p>\n<p>To apply, please submit your resume and cover letter .</p>\n<p>Job Types: Full-time, Part-time, Contract</p>\n<p>Pay: $72,704.55 - $87,558.17 per year</p>\n<p>Expected hours: 40 per week</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k) matching</li>\n <li>Life insurance</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>Monday to Friday</li>\n</ul>\n<p>Ability to Commute:</p>\n<ul>\n <li>Redwood City, CA 94061 (Required)</li>\n</ul>\n<p>Ability to Relocate:</p>\n<ul>\n <li>Redwood City, CA 94061: Relocate before starting work (Required)</li>\n</ul>\n<p>Work Location: In person</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Part-time",
+              "sentiment": "UNKNOWN",
+              "suid": "75GKK"
+            },
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            },
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Contract",
+              "sentiment": "UNKNOWN",
+              "suid": "NJXCK"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "Monday to Friday"
+          ],
+          "benefitsModel": [
+            "401(k) matching",
+            "Life insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "11 days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=2e0332c701142491&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Redwood City, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 87558.17,
+          "salaryMin": 72704.55,
+          "salaryType": "YEARLY",
+          "salaryText": "$72,704.55 - $87,558.17 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-r&d-engineer-l-redwood-city,-ca-jobs.html",
+            "linkText": "R&D Engineer jobs in Redwood City, CA",
+            "what": "R&D Engineer",
+            "where": "Redwood City, CA"
+          },
+          {
+            "href": "/q-amped-innovation-pbc-l-redwood-city,-ca-jobs.html",
+            "linkText": "Jobs at Amped Innovation PBC in Redwood City, CA",
+            "what": "Amped Innovation PBC",
+            "where": "Redwood City, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=R%26D+Engineer&l1=Redwood+City%2C+CA",
+            "linkText": "R&D Engineer salaries in Redwood City, CA",
+            "what": "R&D Engineer",
+            "where": "Redwood City, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "cc2d89aefb9cfb1c",
+        "location": "Santa Clara, CA",
+        "company": {
+          "companyName": "Amphenol Interconnect Products Corp",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Amphenol-Interconnect-Products-Corp?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81jfpi0d9803&fromjk=cc2d89aefb9cfb1c",
+          "companyReviewLink": "https://www.indeed.com/cmp/Amphenol-Interconnect-Products-Corp/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81jfpi0d9803&fromjk=cc2d89aefb9cfb1c&jt=Field+Applications+Engineer",
+          "companyLogoUrl": null,
+          "headerImageUrl": null,
+          "companyRating": {
+            "ariaContent": "2.6 out of 5 stars. Link to 8 company reviews (opens in a new tab)",
+            "count": 8,
+            "countContent": "8 reviews",
+            "rating": 2.6
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA",
+          "jobTitle": "Field Applications Engineer",
+          "jobDescription": "<p>Amphenol IPC (AIPC) is the global leader in power distribution interconnect solutions for IT &amp; Data Communications equipment, electric mobility, and industrial power conversion. We are driven by innovative, empowered, and creative teamwork, and build solutions that solve business challenges.</p>\n<p>Headquartered in Endicott, NY, and with operations in China and Mexico, AIPC is a division of Amphenol Corporation, a Fortune 500 company with over 90 years of experience in enabling the ongoing electronics revolution.</p>\n<p>Our customers’ ultimate success depends on our ability to solve innovative problems in relation to interconnect solutions. We value our relationships with these companies, and we depend on our Sales and Field Applications Engineering Teams to foster this ongoing partnership.</p>\n<p>We are currently seeking a well-qualified candidate for the position of <b>Field Applications Engineer</b> <b>(FAE)</b> as a remote position, located in the <i>Santa Clara, CA region. </i></p>\n<p><b>To apply for the position, please visit:</b></p>\n<p><b>https://us232.dayforcehcm.com/CandidatePortal/en-US/amphenol/SITE/interconnectproductscareers/Posting/View/1259 </b></p>\n<p>As an FAE, you will interface with our customers, and internal Engineering and Sales and Marketing teams for applications that require a significant focus on power conversion technology. Amphenol is a results driven company that allows its employees a large degree of freedom to achieve pre-defined goals. It is a flexible working environment yet we expect hard work, commitment, and results in return. The role of FAE gives an excellent insight into the Sales, Marketing, and Product Development functions of the organization.</p>\n<p><b>ESSENTIAL DUTIES &amp; RESPONSIBILITIES</b></p>\n<p>Engineering resource on the AIPC Business Development team to lead technical aspects of the sales cycle</p>\n<ul>\n <li>Develop personal relationships and rapport with key design influencers at key accounts</li>\n <li>Provide technical marketing support for the development and implementation of AIPC solutions</li>\n <li>Prepare materials and participate in product presentations</li>\n <li>Provide customer service to solve complex interconnect problems and technical inquiries</li>\n <li>Help devise strategies to differentiate our products and solutions from our competitors</li>\n <li>Participate in industry standards, events, and training sessions to remain current with new developments in power conversion technologies, and ensure that these industry developments are well communicated within the AIPC organization</li>\n <li>Meet and exceed strategic objectives</li>\n</ul>\n<p><b>QUALIFICATIONS</b></p>\n<ul>\n <li>BS Degree in Electrical Engineering with an emphasis on Power Electronics is preferred. Strong Mechanical Design experience is a plus.</li>\n <li>Minimum of 5 years displayed experience providing product marketing and technical sales support to produce design wins</li>\n <li>Travel may be required, both domestic and international</li>\n</ul>\n<p><b>SKILLS</b></p>\n<ul>\n <li>Results-driven mindset</li>\n <li>Ability to effectively communicate across the Engineering and Managerial functions of the business</li>\n <li>Solid presentation, interpersonal and communication skills, both written and verbal, including the ability to interact well with customers</li>\n <li>High level of organization and customer service abilities</li>\n <li>Proficient in MS Office Suite</li>\n <li>Experience with modeling tools (CAD, Pro E, or Solidworks)</li>\n</ul>\n<p>Amphenol offers a competitive salary and benefits. The candidate must be able to legally work in the United States; we are unable to provide sponsorship. Position requires candidate to be a U.S. person as defined in ITAR, 22 CFR 120.15 (U.S. Citizenship or Resident Alien Status) and defined by 8 U.S.C. 1101(a) (20).</p>\n<p>Amphenol is a proud Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, marital status, sex, sexual orientation, gender identity or expression, national origin, age, protected veteran status or disability status.</p>\n<p>Job Type: Full-time</p>\n<p>Pay: $135,000.00 - $180,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>401(k) matching</li>\n <li>Dental insurance</li>\n <li>Employee assistance program</li>\n <li>Employee discount</li>\n <li>Flexible spending account</li>\n <li>Health insurance</li>\n <li>Health savings account</li>\n <li>Life insurance</li>\n <li>Paid time off</li>\n <li>Parental leave</li>\n <li>Tuition reimbursement</li>\n <li>Vision insurance</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n <li>Day shift</li>\n <li>Monday to Friday</li>\n</ul>\n<p>Education:</p>\n<ul>\n <li>Bachelor's (Preferred)</li>\n</ul>\n<p>Location:</p>\n<ul>\n <li>Santa Clara, CA (Required)</li>\n</ul>\n<p>Work Location: Remote</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {
+            "text": "Remote",
+            "type": "REMOTE_ALWAYS"
+          },
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift",
+            "Day shift",
+            "Monday to Friday"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "401(k) matching",
+            "Dental insurance",
+            "Employee assistance program",
+            "Employee discount",
+            "Flexible spending account",
+            "Health insurance",
+            "Health savings account",
+            "Life insurance",
+            "Paid time off",
+            "Parental leave",
+            "Tuition reimbursement",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": true,
+          "jobUrl": "https://indeed.com/viewjob?jk=cc2d89aefb9cfb1c&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 180000,
+          "salaryMin": 135000,
+          "salaryType": "YEARLY",
+          "salaryText": "$135,000 - $180,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-field-application-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Field Application Engineer jobs in Santa Clara, CA",
+            "what": "Field Application Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-amphenol-interconnect-products-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at Amphenol Interconnect Products in Santa Clara, CA",
+            "what": "Amphenol Interconnect Products",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Field+Application+Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Field Application Engineer salaries in Santa Clara, CA",
+            "what": "Field Application Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "0f1f4ede67a68775",
+        "location": "Santa Clara, CA 95051",
+        "company": {
+          "companyName": "HiPA Photonics Inc.",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Jpt-Opto--electronics-(us)-Inc.-1?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81je8i6gp80b&fromjk=0f1f4ede67a68775",
+          "companyReviewLink": "https://www.indeed.com/cmp/Jpt-Opto--electronics-(us)-Inc.-1/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81je8i6gp80b&fromjk=0f1f4ede67a68775&jt=Laser+Application+Engineer",
+          "companyLogoUrl": null,
+          "headerImageUrl": null,
+          "companyRating": {}
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA 95051",
+          "jobTitle": "Laser Application Engineer",
+          "jobDescription": "<p>HiPA Photonics Inc., a Singapore company (HiPA Photonics Pte. Ltd.) subsidiary in the US. We focused on high-precision automated optical measurement and laser micro-machining integrated equipment, providing customers with efficient services and high-quality intelligent equipment products to help customers in the international market better understand high-quality technological innovation companies from China.</p>\n<p><i>https://www.hipaphotonics.com/</i></p>\n<p>http://jpt-hipa.com/</p>\n<p><b>Job Responsibilities:</b><br>1. Process verification of customer projects, solving process technical problems, and providing application reports.<br>2. Responsible for development of advanced laser processing, technical research and training on marking, welding, and drilling processes.<br>3. Responsible for performance verification of R&amp;D prototypes, providing feedback on issues, and promoting updates and iterations of R&amp;D prototypes (Preferred).<br>4. Participate in the process review of design drawings and provide suggestions (Preferred).<br>5. Participate in meetings with customers for projects, process details, and reports.<br>6. Responsible for communicating and solving process and technical problems on-site with customers.<br>7. Perform other work assigned by management.</p>\n<p><b>Job Requirements:</b><br>1. Bachelor’s degree or above, majoring in optics, application engineering , applied physics, mechanical engineering, materials science, material forming and control engineering, welding or other related majors.<br>2. More than 2 years of laser experience, Experience in marking and welding application process development (Preferred).<br>3. Familiar with nanosecond, picosecond, and femtosecond infrared, ultraviolet, and green laser laser processing techniques.<br>5. Be familiar with the principles of laser welding, additive manufacturing, laser cleaning, and other related technologies, and understand the interaction mechanism between laser and materials.<br>6. Build a laser processing platform and independently complete customer sample verification and reporting.<br>7. Handle working pressure. Quickly solve customer on-site process issues and ensure smooth project implementation.<br>8. Good communication skills.<br>9. Able to adapt to business trips.<br>10. Green card holders are preferred.</p>\n<p>Job Type: Full-time</p>\n<p>Pay: $100,000.00 - $140,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>Dental insurance</li>\n <li>Health insurance</li>\n <li>Paid time off</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>Monday to Friday</li>\n</ul>\n<p>Language:</p>\n<ul>\n <li>Chinese (Preferred)</li>\n</ul>\n<p>Ability to Relocate:</p>\n<ul>\n <li>Santa Clara, CA 95051: Relocate before starting work (Required)</li>\n</ul>\n<p>Willingness to travel:</p>\n<ul>\n <li>25% (Preferred)</li>\n</ul>\n<p>Work Location: In person</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "Monday to Friday"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "Dental insurance",
+            "Health insurance",
+            "Paid time off"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=0f1f4ede67a68775&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 140000,
+          "salaryMin": 100000,
+          "salaryType": "YEARLY",
+          "salaryText": "$100,000 - $140,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-application-developer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Application Developer jobs in Santa Clara, CA",
+            "what": "Application Developer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-hipa-photonics-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at HiPA Photonics in Santa Clara, CA",
+            "what": "HiPA Photonics",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Application+Developer&l1=Santa+Clara%2C+CA",
+            "linkText": "Application Developer salaries in Santa Clara, CA",
+            "what": "Application Developer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "e6cb712babbc7f0c",
+        "location": "Mountain View, CA 94043",
+        "company": {
+          "companyName": "Milroy Construction Inc.",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Milroy-Construction-Inc.-1?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81jiui6km801&fromjk=e6cb712babbc7f0c",
+          "companyReviewLink": "https://www.indeed.com/cmp/Milroy-Construction-Inc.-1/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81jiui6km801&fromjk=e6cb712babbc7f0c&jt=Project+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2de158599b64bc90a163bc41323804ed",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/3333b3267c541384252e8918ecb5eab2",
+          "companyRating": {}
+        },
+        "jobInfo": {
+          "formattedLocation": "Mountain View, CA 94043",
+          "jobTitle": "Project Engineer",
+          "jobDescription": "<p>Milroy Construction is looking to add a Project Engineer to our San Francisco Bay Area Team!</p>\n<p><b>About us: </b>Milroy Construction is a general contractor located in Mountain View, California. Our current headcount is 40 and we are growing. We primarily manage commercial and industrial construction projects throughout the Bay Area. We specialize in small to midsize projects (currently up to $30 million in size) and will often take on our clients most technical and challenging work. We pride ourselves in delivering a best-in-class project management experience and are focused on teamwork and creating a positive work environment.</p>\n<p><b>Why Choose Milroy? </b>While we are smaller in headcount, we work at many of the Bay Area’s best locations. Our portfolio includes projects with Stanford University and Apple Inc. In addition to top tier clients, we work with the Bay Areas best subcontractors and bring the A-team to every project we manage. An advantage to our small size is that you won’t be stuck on a huge project doing the same repetitive task for months on end. You also won’t be asked to work ridiculous hours. We respect work life balance and strive to provide a great work environment for all levels of experience. We also offer the most competitive compensation package in the industry.</p>\n<p><b>Who Should Apply?</b> Anyone with a construction engineering degree, architecture degree, or someone who has worked in the industry as field engineer or PE.</p>\n<p><b>What you will do:</b></p>\n<ul>\n <li>Project Planning: Collaborate with project managers to develop project plans, budgets, and schedules.</li>\n <li>Design and Engineering: Assist with the technical aspects of the project, including reviewing and interpreting design drawings, specifications, and ensuring engineering requirements are met.</li>\n <li>Resource Allocation: Assist in management of the allocation of resources such as labor, equipment, and materials to meet project needs.</li>\n <li>Quality Assurance: Oversee quality control and ensure that construction work meets design standards, industry regulations, and safety codes.</li>\n <li>Cost Management: Monitor project expenses, track costs, and identify opportunities to stay within the project budget.</li>\n <li>Documentation: Maintain accurate project documentation, including as-built drawings, change orders, and construction records.</li>\n <li>Subcontractor Management: Coordinate and manage subcontractors, including procurement, scheduling, and performance evaluations.</li>\n <li>Risk Management: Identify and address potential project risks, working to mitigate delays or cost overruns.</li>\n <li>Communication: Facilitate effective communication between project stakeholders, including project managers, clients, subcontractors, and team members.</li>\n <li>Problem Solving: Address and resolve technical issues, discrepancies, and challenges encountered during construction.</li>\n <li>Procurement: Manage the procurement of construction materials, equipment, and services needed for the project.</li>\n <li>Regulatory Compliance: Ensure the project adheres to local building codes, zoning regulations, and environmental requirements.</li>\n <li>Health and Safety: Promote and enforce safety protocols to maintain a safe work environment.</li>\n <li>Schedule Management: Work to meet project milestones and deadlines by managing the project schedule.</li>\n <li>Reporting: Provide regular updates on project progress, budget status, and other key metrics to project managers and stakeholders.</li>\n</ul>\n<p>Project Engineer Qualifications:</p>\n<ul>\n <li>A two or four-year degree in an accredited engineering or construction management program.</li>\n <li>Field Engineer, Project Coordinator, or Assistant Project Manager Experience</li>\n <li>Construction industry experience or internships</li>\n <li>Detail oriented team player with good organizational skills</li>\n <li>Competency working with a wide range of technology</li>\n</ul>\n<p>Job Type: Full-time</p>\n<p>Pay: $85,000.00 - $120,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>Flexible schedule</li>\n <li>Health insurance</li>\n <li>Paid time off</li>\n <li>Referral program</li>\n <li>Relocation assistance</li>\n <li>Retirement plan</li>\n</ul>\n<p>Compensation package:</p>\n<ul>\n <li>Bonus opportunities</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>Monday to Friday</li>\n</ul>\n<p>Work Location: Hybrid remote in Mountain View, CA 94043</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {
+            "text": "Hybrid work",
+            "type": "REMOTE_HYBRID"
+          },
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "Monday to Friday"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "Flexible schedule",
+            "Health insurance",
+            "Paid time off",
+            "Referral program",
+            "Relocation assistance",
+            "Retirement plan"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30 days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "2",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=e6cb712babbc7f0c&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Mountain View, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 120000,
+          "salaryMin": 85000,
+          "salaryType": "YEARLY",
+          "salaryText": "$85,000 - $120,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-project-engineer-l-mountain-view,-ca-jobs.html",
+            "linkText": "Project Engineer jobs in Mountain View, CA",
+            "what": "Project Engineer",
+            "where": "Mountain View, CA"
+          },
+          {
+            "href": "/q-milroy-construction-l-mountain-view,-ca-jobs.html",
+            "linkText": "Jobs at Milroy Construction in Mountain View, CA",
+            "what": "Milroy Construction",
+            "where": "Mountain View, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Project+Engineer&l1=Mountain+View%2C+CA",
+            "linkText": "Project Engineer salaries in Mountain View, CA",
+            "what": "Project Engineer",
+            "where": "Mountain View, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "6f3555ed9e288523",
+        "location": "Santa Clara, CA",
+        "company": {
+          "companyName": "Eurofins USA Material Sciences",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Eag-Laboratories?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81k78kefj80v&fromjk=6f3555ed9e288523",
+          "companyReviewLink": "https://www.indeed.com/cmp/Eag-Laboratories/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81k78kefj80v&fromjk=6f3555ed9e288523&jt=PCB+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/daa158a3b66e1a35f0148520412da822",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/08375e2ab2e5f6acbf3bd05abcc4ab49",
+          "companyRating": {
+            "ariaContent": "3.5 out of 5 stars. Link to 27 company reviews (opens in a new tab)",
+            "count": 27,
+            "countContent": "27 reviews",
+            "rating": 3.5
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA",
+          "jobTitle": "PCB Engineer",
+          "jobDescription": "<div>\n <b>Company Description</b>\n <p><br> Eurofins Scientific is an international company, providing a unique range of analytical testing services to clients across multiple industries, to make life and our environment safer, healthier and more sustainable. From the food you eat, to the water you drink, to the medicines you rely on, Eurofins works with the biggest companies in the world to ensure the products they supply are safe, their ingredients are authentic and labelling is accurate. Eurofins believes it is a global leader in food, environmental, pharmaceutical and cosmetics products testing, as well as in agroscience CRO services. It is also one of the global independent market leaders in certain testing and laboratory services for genomics, discovery pharmacology, forensics, CDMO, advanced material sciences and in the support of clinical studies.</p>\n <p> In over just 30 years, Eurofins has grown from one laboratory in Nantes, France to over 58,000 staff across a network of more than 900 independent companies in over 54 countries, operating more than 900 laboratories.</p><b><br> Job Description</b>\n <p><br> EAG Laboratories, a part of the Eurofins network of companies is hiring for a PCB Engineer. Our laboratory in Santa Clara, CA, provides a range of specialized engineering services to accelerate product release, address capability and capital equipment gaps, solve manufacturing problems and manage risk. We offer the broadest the most comprehensive range of microelectronics services of any commercial organization with large scale brick and mortar install base of systems and tools and the engineering expertise to design, develop, test, analyze, and debug the most innovative technologies and products.</p>\n <p> Responsible for supporting the design and test for PCB burn-in and ATE Boards and interact with clients to ensure the highest quality and efficiency of our electronic components.</p>\n <p> In this role, you will be taking design inputs provided by the customer (PDF and Excel) and ensuring the inputs are sufficient to enable the customer to complete the necessary stress or tests on their device. You would be expected to communicate with the customer to clarify any of their requests and provide files for them to review. Design review meetings may be necessary with the customer to make any changes or clarify the board design. You will be a part of a team of designers, so another facet of the position is to answer questions / provide circuits or components of the assigned designer. Once designer completes design, you will need to review the schematic and/or layout files to ensure that the documentation meets the requirements of the customer and follows chamber requirements/limitations as well.</p>\n <p> Essential Job Functions:</p>\n <ul>\n  <li> Collaborate with the engineering team to define PCB design requirements and considerations.</li>\n  <li> Perform PCB design verification and testing.</li>\n  <li> Ensure compliance with industry standards and regulations.</li>\n  <li> Troubleshoot and resolve issues related to PCB design.</li>\n  <li> Provide technical support to the manufacturing team during the PCB assembly process.</li>\n  <li> May design and layout complex, multi-layer PCBs using CAD software.</li>\n  <li> Manage projects, including planning, scheduling, budgeting, and risk management.</li>\n  <li> Communicate with clients to understand their requirements and provide updates on project progress.</li>\n  <li> Present technical information to clients in a clear and understandable manner.</li>\n  <li> Continually update knowledge and skills related to PCB design, project management, and client interaction.</li>\n  <li> Prepare test specifications and test procedures and develop test fixtures</li>\n  <li> Monitor and report project status to Manager on regular basis</li>\n  <li> Ensure that project deliverables meet customer expectations</li>\n  <li> Recommend improvements to ensure PCB quality and reliability</li>\n  <li> Perform project updates according to changing customer requirements</li>\n  <li> Follow established safety protocols and procedures at all times</li>\n  <li> Requirements of the Technology Control Plan are followed at all times to ensure export control compliance</li>\n  <li> Ensures compliance with quality system documents and processes</li>\n  <li> Maintains specified records of test data and ensures Good Documentation Practices</li>\n  <li> Protects confidential information and proprietary processes</li>\n </ul>\n <p><b><i> Note: This role is subject to the International Traffic in Arms Regulations (ITAR).</i></b></p>\n <p><b><i> **</i></b><b><i>All accepted applicants must be </i></b><b>U.S. Persons</b><b><i> as defined by ITAR: U.S. Person is a U.S. Citizen, U.S. Permanent Resident (i.e., \"Green Card Holder\"), Political Asylee, or Refugee.</i></b><b><i>**</i></b></p><b><br> Qualifications</b>\n <p><br> Education and Experience:</p>\n <ul>\n  <li> BS degree in Electrical Engineering or a related field</li>\n  <li> 3+ Years of experience working in PCB layout and/manufacturing environment</li>\n </ul>\n <p> Job Knowledge, Skills, and Ability:</p>\n <ul>\n  <li> Proficient with Cadence (Allegro, OrCAD)</li>\n  <li> Strong understanding of electronic circuits and components</li>\n  <li> Ability to read and work from schematics</li>\n  <li> Excellent written communication skills</li>\n  <li> Able to work with minimal supervision</li>\n  <li> Able to work individually and as part of a team</li>\n  <li> Needs to have excellent relationship-building skills</li>\n  <li> Experience in project management</li>\n  <li> Excellent problem-solving abilities and attention to detail</li>\n  <li> Strong communication and client interaction skills</li>\n  <li> Computer literate, high level of accuracy and detail oriented</li>\n  <li> Must be able to handle multiple functions at the same time and maintain good organizational skills</li>\n </ul>\n <p><b> Physical Requirements:</b></p>\n <ul>\n  <li> Must be able to remain in a stationary position 80% of the time.</li>\n  <li> Ability to continuously operate a personal computer or lab equipment for extended periods of time (4 or more hours).</li>\n  <li> Ability to operate a keyboard and other lab equipment, use a telephone, access file cabinets and other items stored at various levels, including overhead</li>\n  <li> Ability to communicate clearly and understandably ensure an accurate exchange of information in normal conversational distance, over the telephone, and in a group setting.</li>\n  <li> Ability to handle small and fragile devices with tweezers and /or fingers.</li>\n  <li> Require close distance visual acuity with or without correction (Glasses, Contacts, etc.)</li>\n  <li> Must be willing and able to wear PPE such as hard-hat, steel-toed shoes, safety glasses, laboratory coat and/or any other devices or equipment that is required.</li>\n  <li> Learn new tasks, remember processes, maintain focus, complete tasks independently, make timely decisions in the context of a workflow, ability to communicate with visitors, ability to complete tasks in situations that have a speed or productivity quota.</li>\n  <li> Ability to move equipment or items up to 50 lbs.</li>\n </ul>\n <p> The essential physical and mental requirements described here are representative of those that must be met by an employee to successfully perform the essential functions of the job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.</p>\n <p> We will consider reasonable accommodations for qualified individuals with disabilities. If you have a disability or special need, we would like to know how we can better accommodate you.</p><b><br> Additional Information</b>\n <p><br> Compensation Range: $90,451-$120,000. (Salary is commensurate with experience and degree of technical expertise.)</p>\n <p><b><i> What It’s Like to Work Here:</i></b></p>\n <ul>\n  <li><b> Teamwork: </b>experience what being a part of the Eurofins-EAG family feels like. Be inspired by your leaders, be encouraged by your teammates and be supported in all parts of your journey while you work with us.</li>\n  <li><b> Learning &amp; Development: </b>take on career development programs and goal setting to create big possibilities for your career and life. Develop within the company; be mentored and grown as a leader.</li>\n  <li><b> Diversity &amp; Authenticity: </b>we work hard to embrace diversity and inclusion and encourage everyone to bring their authentic selves to work every day.</li>\n </ul>\n <p><b> Benefits &amp; Perks to Foster Work/Life Balance:</b></p>\n <p> ✓ Medical, Dental and Vision Coverage</p>\n <p> ✓ 401k Company Matching</p>\n <p> ✓ Paid Time Off</p>\n <p> ✓ Wellness Program</p>\n <p> ✓ Education Assistance</p>\n <p> ✓ …and more!</p>\n <p><b> If you enjoy being immersed in technology, tackling problems head-on, finding solutions through teamwork, and taking pride in accomplishments, join us today!</b></p>\n <p> Eurofins EAG Laboratories is committed to promoting an equal employment opportunity workplace environment and is an equal opportunity employer. It is the policy of the Company that all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, citizenship, pregnancy, genetic information (GINA), disability, military and/or veteran status, and/or any other status protected by applicable Federal, state, or local law. The Company’s policy is to recruit, hire, train, promote and administer all employment-related matters based on an individual's qualifications, abilities and efforts without regard to protected status.</p>\n <p> Eurofins is a Gender, Disabled, and Veteran Equal Employment Opportunity and Affirmative Action employer.</p>\n <p> Check out our other opportunities: EAG Careers.</p>\n</div>\n<p></p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "benefitsModel": [
+            "401(k) matching",
+            "Dental insurance",
+            "Health insurance",
+            "Paid time off",
+            "Tuition reimbursement",
+            "Vision insurance",
+            "Wellness program"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": "Eurofins USA Material Sciences",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=6f3555ed9e288523&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXh-WlvChQqzjYA8sUpz9WwL_vC1rpRx9ObEfE7dCB26Mo6KYR100CNc2ynZcwEVTMylaWEfgdGrWeq5_aemYeuuzjsYH54jYQAET4EU_pfICrnmGCsdFjOVt9kT6x8RZLkKRsMyEzSFU5oaoQnypcjaCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=2d3665c88bb3c38e&assa=2075",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=6f3555ed9e288523&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 120000,
+          "salaryMin": 90451,
+          "salaryType": "YEARLY",
+          "salaryText": "$90,451 - $120,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Engineer jobs in Santa Clara, CA",
+            "what": "Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-eurofins-usa-material-sciences-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at Eurofins USA Material Sciences in Santa Clara, CA",
+            "what": "Eurofins USA Material Sciences",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Engineer salaries in Santa Clara, CA",
+            "what": "Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "9439d5abcde74ec6",
+        "location": "San Jose, CA 95131",
+        "company": {
+          "companyName": "Megaforce Corporation",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Megaforce-Corporation-1?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81kokis3p839&fromjk=9439d5abcde74ec6",
+          "companyReviewLink": "https://www.indeed.com/cmp/Megaforce-Corporation-1/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81kokis3p839&fromjk=9439d5abcde74ec6&jt=Quality+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/cf29afe85cddfdc6126eaa7b131b38ee",
+          "headerImageUrl": null,
+          "companyRating": {}
+        },
+        "jobInfo": {
+          "formattedLocation": "San Jose, CA 95131",
+          "jobTitle": "Quality Engineer",
+          "jobDescription": "<p><b>Job Summary</b></p>\n<p><b>Summary:</b></p>\n<p>The Quality Engineer position is responsible for ensuring quality of manufactured goods from delivery to final product by continually assessing process and recommending improvements in our contract manufacturing setting. This position is also responsible for the design and implementation of quality parameters relating to Electronic Contract Manufacturing.</p>\n<p><b>Reasonable accommodations may be made to enable individuals with disabilities to perform the listed essential duties and responsibilities:</b></p>\n<ul>\n <li>Drive and implement quality activities to meet company expectations, customer expectations; maintain consistent documentation and continuous improvements on manufacturing internally and externally</li>\n <li>Design and implement methods and procedures for inspecting, testing, and evaluating the precision and accuracy of products and/or production equipment</li>\n <li>Coordinate activities associated with “first article build” of new products, ensuring that fabricated items are traceable to documented standards at the time of release of product into the production mode</li>\n <li>Analyze Corrective Action Reports (CARs) and Return Material Authorization (RMAs) and recommends additional corrective actions; support manufacturing to minimize non-value added processes like RMAs, rework, scrapping</li>\n <li>Create device failure analysis and root-cause analysis to investigate and evaluate defective devices/circuits, conduct performance characterization testing and modeling, and recommend changes to eliminate future failures</li>\n <li>Audit ISO standards in all departments of the company and serve as the ISO management representative of Megaforce</li>\n <li>Required to conform to safety regulations and procedures to maintain a safe working environment at all times</li>\n <li>Works directly with manufacturing to schedule and control inspection activities to enforce requirements as specified by raw materials, ingredients, product and package specifications, and regulatory agencies</li>\n</ul>\n<p><b>Qualifications:</b></p>\n<p>A bachelor’s degree in Quality Engineering or Quality Assurance or an equivalent degree from an accredited institution; or a minimum of 3-4 years of related experience and/or training; or an adequate combination of education and experience that would demonstrate the capability to perform the role.</p>\n<p>Knowledge and Skills:</p>\n<ul>\n <li>Must have specific knowledge of ISO 9001:2008 or ISO 13485 (medical), Traceability, IPC-610 Class II, III, and J-STD</li>\n <li>Strong verbiage of contract manufacturing process (A – Z)</li>\n <li>Strong verbiage of various quality and manufacturing reporting, graphs, Excel data, schematics, etc.</li>\n <li>Proficient communication skills to work with production personnel, PMs, and engineers</li>\n <li>Strong adaptability to implement engineering and customer changes and maximize efficiencies</li>\n <li>Strong time management skills to balance various project build simultaneously</li>\n <li>Strong adaptability to implement engineering and customer changes and maximize efficiencies</li>\n <li>Ability to prioritize and execute multiple tasks in a demanding environment, demonstrate good judgment in selecting methods and techniques for obtaining solutions.</li>\n</ul>\n<p><b>Equal Employment Opportunities:</b></p>\n<p>Megaforce Corporation provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Megaforce Corporation also complies with applicable state and local laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training</p>\n<p>Job Type: Full-time</p>\n<p>Pay: $57,610.68 - $104,476.14 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>401(k) matching</li>\n <li>Dental insurance</li>\n <li>Health insurance</li>\n <li>Paid time off</li>\n <li>Vision insurance</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n</ul>\n<p>Ability to commute/relocate:</p>\n<ul>\n <li>San Jose, CA 95131: Reliably commute or planning to relocate before starting work (Required)</li>\n</ul>\n<p>Experience:</p>\n<ul>\n <li>ISO 9001: 1 year (Preferred)</li>\n</ul>\n<p>Work Location: In person</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "401(k) matching",
+            "Dental insurance",
+            "Health insurance",
+            "Paid time off",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=9439d5abcde74ec6&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "San Jose, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 104476.14,
+          "salaryMin": 57610.68,
+          "salaryType": "YEARLY",
+          "salaryText": "$57,610.68 - $104,476.14 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-quality-engineer-l-san-jose,-ca-jobs.html",
+            "linkText": "Quality Engineer jobs in San Jose, CA",
+            "what": "Quality Engineer",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/q-megaforce-corporation-l-san-jose,-ca-jobs.html",
+            "linkText": "Jobs at Megaforce Corporation in San Jose, CA",
+            "what": "Megaforce Corporation",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Quality+Engineer&l1=San+Jose%2C+CA",
+            "linkText": "Quality Engineer salaries in San Jose, CA",
+            "what": "Quality Engineer",
+            "where": "San Jose, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "c31b761841f608e3",
+        "location": "San Jose, CA 95134",
+        "company": {
+          "companyName": "General Dynamics Mission Systems, Inc",
+          "companyOverviewLink": "https://www.indeed.com/cmp/General-Dynamics-Mission-Systems?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81ls5kef0805&fromjk=c31b761841f608e3",
+          "companyReviewLink": "https://www.indeed.com/cmp/General-Dynamics-Mission-Systems/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81ls5kef0805&fromjk=c31b761841f608e3&jt=Mechanical+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/184c48ba093416548f8384fb0bc9ee94",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/b95d81ce27fc70467fe0996c34a09633",
+          "companyRating": {
+            "ariaContent": "3.6 out of 5 stars. Link to 564 company reviews (opens in a new tab)",
+            "count": 564,
+            "countContent": "564 reviews",
+            "rating": 3.6
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "San Jose, CA 95134",
+          "jobTitle": "Mechanical Engineer",
+          "jobDescription": "<div>\n Basic Qualifications : \n <div>\n  <b> Education:</b> \n  <br> Bachelor’s degree in Mechanical Engineering, or a related Science, Engineering or Mathematics field, plus a minimum of 5 years of relevant experience; or Master's degree plus a minimum of 3 years of relevant experience.\n </div>\n <div></div>\n <div>\n  <b><br> CLEARANCE REQUIREMENTS:</b>\n </div>\n <div>\n   Department of Defense TS/SCI security clearance is preferred at time of hire. Candidates must be able to obtain a TS/SCI clearance within a reasonable amount of time from date of hire. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.\n </div> Responsibilities for this Position: \n <p> General Dynamics Mission Systems (GDMS) has an immediate opening for a <b>Mechanical Engineer </b>to join us in our San Jose, CA location. This position provides an opportunity to further advance cutting-edge technologies that support some of our nation’s core defense/intelligence services and systems. GDMS employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.</p>\n <p><br> </p>\n <p><b>KEY RESPONSIBILITIES:</b></p>\n <p> The <b>Mechanical Engineer </b>provides electronic packaging, interconnect and cable design associated with large and small scale antenna ground systems.</p>\n <p></p>\n <p><br> The engineer will be the point of contact for all interconnect and cable aspects of those systems he/she is assigned. The engineer will generate the associated cabling data package and BOMs and support the associated procurement, product builds, system installations and acceptance tests. The engineer will support the generation of site facilities interface specifications, to include monitoring facilities design and construction to ensure system physical requirements and specifications are implemented satisfactorily. The role will include working with the program team and sub-contractors in addition to interfacing with customer representatives.</p>\n <p></p>\n <p><br> The qualified candidate also performs electronic packaging design for units, racks and systems, working independently and/or with a team of project engineers. Scope of tasking can include design, development and production of mechanical and electromechanical systems, sub-system components, and related structural systems. Work involves hands-on development (design, prototyping, and testing) of one-of-a-kind solutions, often in support of quick response capability (QRC) programs. Support on Integrated Product Teams (IPTs) includes overall deliverable integration, preparation and presentation of technical reports and design milestone reviews, scheduling and planning duties, and other special assignments on a diverse range of technical tasking.</p>\n <p><br> </p>\n <p><b>BASIC QUALIFICATIONS:</b></p>\n <ul>\n  <li> Must have demonstrated experience performing electronic packaging design</li>\n  <li> Must have demonstrated experience working with equipment performance specs, wire drawing lists, schematics, and related cabling and harnessing documentation</li>\n  <li> Must be proficient in Microsoft products Word, Excel, PowerPoint (and Visio and Project is a plus)</li>\n  <li> Must be proficient with solid modeling MCAD tools – Creo preferred</li>\n  <li> Must be willing to travel to monitor suppliers and to support overseas field installations </li>\n  <li>Must be a US citizen and able to obtain a Top Secret clearance</li>\n </ul>\n <p><b> PREFERRED QUALIFICATIONS:</b></p>\n <ul>\n  <li> Experience with power installation and cabling</li>\n  <li> Hands-on construction experience; interest/ability to participate in fabrication and assembly activities</li>\n  <li> Practical field/installation experience is a plus</li>\n  <li> Experience with towers, supports and building structural designs; architectural and/or civil engineering aptitude is a plus</li>\n  <li> Experience with preparation and presentation of technical briefings and reports which communicate analysis results, technical trades, design requirements and specifications, and recommendations to customer technical and management staff is a plus</li>\n  <li> Current TS/SCI clearance</li>\n </ul>\n <p></p>\n <p><b><br> REPRESENTATIVE DUTIES AND TASKS:</b></p>\n <ul>\n  <li> Understands and interprets the technical, organizational and process aspects of the task assigned and can relate them to the technical needs of the overall project or organization</li>\n  <li> Plans and executes small projects or task elements within larger projects, organizations, or for groups of projects</li>\n  <li> Responsible for the completion of assigned engineering tasks or small projects within budgetary and scheduling guidelines</li>\n  <li> Begins participating in the proposal process</li>\n  <li> Directs support personnel in the preparation of detailed design, design testing, and prototype fabrication</li>\n  <li> As assigned, work closely with Systems engineers to lead and perform mechanical design, electronic packaging and analysis for new design projects</li>\n </ul>\n <p></p>\n <p><b><br> KNOWLEDGE SKILLS AND ABILITIES:</b></p>\n <ul>\n  <li> Solid proficiency and able to perform all responsibilities associated with the position</li>\n  <li> Grasps and applies new information quickly</li>\n  <li> Solid ability to handle more complex assignments</li>\n  <li> Shows initiative on assignments, exercises critical judgment, and professionally executes projects with little direction or as guided by senior engineers</li>\n  <li> Experience with the drawing change cycle and PDM (Product Data Management) products</li>\n  <li> Solid knowledge with technical standards, manufacturing/fabrication methods and government/industry standards</li>\n  <li> Solid knowledge of technical drawing standards, tolerancing and GD&amp;T (Geometric, Dimensioning and Tolerancing)</li>\n  <li> Application of DFM (Design for Manufacturing) and DFA (Design for Assembly)</li>\n </ul>\n <br> \n <p></p> Salary Note: This estimate represents the typical salary range for this position based on experience and other factors (geographic location, etc.). Actual pay may vary. This job posting will remain open until the position is filled. Combined Salary Range: USD $127,050.00 - USD $149,100.00 /Yr. Company Overview: \n <div>\n   General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!\n </div>\n <div></div>\n <div>\n  <br> General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran\n </div>\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": "General Dynamics Mission Systems, Inc",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=c31b761841f608e3&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXh_Ef3VMrmIl24eJpgpP-p5HCp5ksri-t8Pgf1sz0JVI6L3RIvK-A40Ak889tKmFpJfFsRdmjSu7pciGzpJCo0U_quGCp45tfIU_7FfoXp2GaTd166UR8E0tr8I-G1fohorxb-JkNtP8S8Hv-8IWUY4CITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=067ea9954c4350fc&assa=3594",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=c31b761841f608e3&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "San Jose, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 149100,
+          "salaryMin": 127050,
+          "salaryType": "YEARLY",
+          "salaryText": "$127,050 - $149,100 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-mechanical-engineer-l-san-jose,-ca-jobs.html",
+            "linkText": "Mechanical Engineer jobs in San Jose, CA",
+            "what": "Mechanical Engineer",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/q-general-dynamics-mission-systems-l-san-jose,-ca-jobs.html",
+            "linkText": "Jobs at General Dynamics Mission Systems in San Jose, CA",
+            "what": "General Dynamics Mission Systems",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/salary?q1=Mechanical+Engineer&l1=San+Jose%2C+CA",
+            "linkText": "Mechanical Engineer salaries in San Jose, CA",
+            "what": "Mechanical Engineer",
+            "where": "San Jose, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "572641582c51fc70",
+        "location": "Scotts Valley, CA",
+        "company": {
+          "companyName": "West Valley Staffing Group",
+          "companyOverviewLink": "https://www.indeed.com/cmp/West-Valley-Staffing-Group?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81mj6ghrm87o&fromjk=572641582c51fc70",
+          "companyReviewLink": "https://www.indeed.com/cmp/West-Valley-Staffing-Group/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81mj6ghrm87o&fromjk=572641582c51fc70&jt=Functional+Safety+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/21874fe205639e15dc04a397de0cf56c",
+          "headerImageUrl": null,
+          "companyRating": {
+            "ariaContent": "3.8 out of 5 stars. Link to 87 company reviews (opens in a new tab)",
+            "count": 87,
+            "countContent": "87 reviews",
+            "rating": 3.8
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Scotts Valley, CA",
+          "jobTitle": "Functional Safety Engineer",
+          "jobDescription": "<p>West Valley Staffing Group seeks a Technical Program Manager for a great opportunity in Milpitas, CA. Apply Now!</p>\n<p>$150 referral bonus available!</p>\n<p>Great long-term opportunity!</p>\n<p>Benefits Offered!</p>\n<p><b>Responsibilities:</b></p>\n<ul>\n <li>This position is responsible for compliance with Functional Safety standards (e.g. ISO 26262) as it applies to motorcycles and powertrain applications.</li>\n <li>The function will advise mechanical, electrical, and software/firmware engineering development teams to achieve compliant electric motorcycle, powertrain, and battery systems.</li>\n <li>Furthermore, this position has the responsibility to align engineering program development methods and processes with Functional Safety principles.</li>\n <li>This position is full time in Scotts Valley, CA and reports to the Director of Powertrain Applications Engineering.</li>\n <li>Oversees the alignment of product development processes to deliver appropriate levels of compliance to ISO 26262 and relevant motorcycle and powertrain application market Functional Safety requirements and standards.</li>\n <li>Owns, coordinates, and schedules implementation of Functional Safety in new product development programs.</li>\n <li>Performs HARAs to identify safety hazards and define safety goals and safety requirements.</li>\n <li>Creates and maintains additional relevant Functional Safety documentation, and generates applicable and relevant internal test reports, executive summaries, official submissions, etc</li>\n <li>Work with development departments to review hardware and firmware architectures to align on requirements, assess impact, and support follow-through including engaging to generate input and revisions to Functional Safety analysis and presents Functional Safety materials within the company and with customers and suppliers, supporting tool usage with focused training.</li>\n <li>the organization.</li>\n <li>Stays abreast of future changes to regulations affecting vehicle Functional Safety.</li>\n <li>Advise on changes in scope in transportation and stationary power markets.</li>\n <li>Other assignments as appropriate given the skillset and ambition of the team member.</li>\n <li>Delivery of assessments and gap analysis reports.</li>\n</ul>\n<p><b>Requirements:</b></p>\n<ul>\n <li>Bachelor's Degree in Engineering such as Mechanical, Systems, Electrical Engineering, or equivalent applied experience</li>\n <li>ISO 26262, IEC 61508, UL, CE, SAE, CPSC</li>\n <li>Experience with product lifecycle verification and validation tools.</li>\n <li>Functional Safety template document generation, data input and validation, publishing, and team support.</li>\n <li>Engagement in small group sessions to provide insight and alignment support throughout various levels of technical and business functions.</li>\n <li>Positive attitude.</li>\n <li>Willingness to help.</li>\n <li>Communication skills including making open-minded approaches with a touch of humor, humility, and stating opinions concisely and clearly.</li>\n <li>Calm, pragmatic approach to workload.</li>\n <li>Solid sense of ownership.</li>\n <li>Passionate about personnel and product safety, and mobility solutions.</li>\n <li>Excellent follow-through and documentation of work.</li>\n <li>Task scheduling including use of time-management systems.</li>\n <li>Excellent written and verbal communication skills.</li>\n <li>Organized, superior attention to detail.</li>\n <li>Diligent, reliable, and tenacious.</li>\n <li>Ability to relate software and firmware development process and terminology knowledge to functional safety concepts.</li>\n <li>Occasional domestic or international travel may be required.</li>\n <li>Candidate must be able to sit for long periods of time to perform duties, and to move around and make inquiries from other staff, management as needed.</li>\n <li>Must be able to bend or stoop down to access files, including lifting of items or objects up to 30 lbs.</li>\n</ul>\n<p>Job Type: Full-time</p>\n<p>Pay: $130,000.00 - $150,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>Dental insurance</li>\n <li>Health insurance</li>\n <li>Vision insurance</li>\n</ul>\n<p>Experience level:</p>\n<ul>\n <li>3 years</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n</ul>\n<p>Work setting:</p>\n<ul>\n <li>In-person</li>\n</ul>\n<p>Work Location: In person</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift"
+          ],
+          "benefitsModel": [
+            "Dental insurance",
+            "Health insurance",
+            "Referral program",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=572641582c51fc70&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Scotts Valley, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 150000,
+          "salaryMin": 130000,
+          "salaryType": "YEARLY",
+          "salaryText": "$130,000 - $150,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-safety-engineer-l-scotts-valley,-ca-jobs.html",
+            "linkText": "Safety Engineer jobs in Scotts Valley, CA",
+            "what": "Safety Engineer",
+            "where": "Scotts Valley, CA"
+          },
+          {
+            "href": "/q-west-valley-staffing-group-l-scotts-valley,-ca-jobs.html",
+            "linkText": "Jobs at West Valley Staffing Group in Scotts Valley, CA",
+            "what": "West Valley Staffing Group",
+            "where": "Scotts Valley, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Safety+Engineer&l1=Scotts+Valley%2C+CA",
+            "linkText": "Safety Engineer salaries in Scotts Valley, CA",
+            "what": "Safety Engineer",
+            "where": "Scotts Valley, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "6b25cd61085b97a7",
+        "location": "Santa Clara, CA 95053",
+        "company": {
+          "companyName": "Abbott Laboratories",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Abbott?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81n3bipa6801&fromjk=6b25cd61085b97a7",
+          "companyReviewLink": "https://www.indeed.com/cmp/Abbott/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81n3bipa6801&fromjk=6b25cd61085b97a7&jt=Associate+R%26D+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/30e9c7297f17d9cce810b6efcc34d602",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/ef2def0162120b08f0e3f39d7ca6a3f3",
+          "companyRating": {
+            "ariaContent": "3.9 out of 5 stars. Link to 6,413 company reviews (opens in a new tab)",
+            "count": 6413,
+            "countContent": "6,413 reviews",
+            "rating": 3.9
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA 95053",
+          "jobTitle": "Associate R&D Engineer",
+          "jobDescription": "<div>\n <p>Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 114,000 colleagues serve people in more than 160 countries.</p>\n <p> We are recruiting for a <b>Associate</b> <b>R&amp;D Engineer-Ventures Trans-Catheter Mitral Valve to join our team in Santa Clara, CA</b>. This is a unique opportunity to join an early-stage development team that provides solutions to patients suffering from mitral valve disease. The position is on a fast-paced, early product development team within Abbott’s Ventures Organization. The individual who fills this role will play a pivotal part in the design, development and testing of this novel trans-septal prosthetic tissue mitral valve delivery system from early clinical feasibility through commercialization. Candidate will be responsible for providing engineering expertise in the creation and the development of the Catheter Delivery System for this class 3 medical device product in the fast-growing market of mitral valve replacement.</p>\n <p></p>\n <p> Decision Making/Impact: Exercise’s judgment in selecting innovative, practical methods to achieve problem resolution. Failure to obtain results or erroneous decisions or recommendations would typically result in serious program delays and considerable expenditure of resources</p>\n <p></p>\n <p> Technical/Business Knowledge: Wide application of technical principles, practices, and procedures. Strong understanding of business unit function and cross group dependencies/relationships. Will perform this job in a quality system environment. Failure to adequately perform tasks can result in noncompliance with governmental regulations.</p>\n <p></p>\n <p> Cognitive Skills: Works on problems of diverse scope where analysis of data requires evaluation of identifiable factors. Exercises judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions. Has a sound knowledge of various technical alternatives and their impact.</p>\n <p></p>\n <p> Our business purpose is to restore health and improve quality of life through the design and provision of device and management solutions for the treatment of STRUCTURAL HEART disease. We aim to lead the markets we serve by requiring the solutions we offer customers provide an improved benefit/risk profile as compared to existing standards of care; a performance threshold that, guides and ensures the productive output of our engineering, business development, and clinical research efforts result in outcomes that advance the standard of care.</p>\n <p></p>\n <p><b> What You’ll Work On</b></p>\n <ul>\n  <li><p> Researches, develops, designs, and evaluates mechanical, components, assemblies, processes and/or equipment to advance development of this catheter-based delivery system for trans-septal percutaneous mitral valve replacement</p></li>\n  <li><p> Develops and iterates on new catheter delivery system concepts from initial design to market release</p></li>\n  <li><p> Write and submit intellectual property (patents)</p></li>\n  <li><p> Maintains detailed documentation throughout all phases of research and development</p></li>\n  <li><p> Investigates and evaluates existing technologies</p></li>\n  <li><p> Reviews or coordinates vendor activities to support development</p></li>\n  <li><p> Interacts with vendors to leverage outside Abbott expertise</p></li>\n  <li><p> Plans and organizes non-routine tasks with supervision to deliver appreciated results based on informed expertise</p></li>\n  <li><p> Works on complex problems where analysis of situations or data requires an in-depth evaluation of various factors</p></li>\n  <li><p> Exercises judgment within broadly defined practices and policies in selecting designs, methods, techniques, and evaluation criteria for obtaining results</p></li>\n </ul>\n <p></p>\n <p><b> Required Qualifications</b></p>\n <ul>\n  <li><p> Bachelor's degree in a technical field, preferably mechanical or biomedical engineering.</p></li>\n  <li><p> 2-5+ years of related work experience with a good understanding of specified functional area, or Master's degree with 0-2 years of related work experience, or an equivalent combination of education and work experience</p></li>\n  <li><p> Ability to work well independently and as a member of a team is essential</p></li>\n  <li><p> Effective communication, listening, and diagnostic skills, verbal and written, are necessary. The demonstration of effective collaboration and influencing skills will be key so that the candidate can achieve results within the cross functional team and with stakeholders around the company</p></li>\n </ul>\n <p></p>\n <p><b> Preferred Qualifications</b><b> </b></p>\n <ul>\n  <li><p>CAD experience required (SolidWorks preferred).</p></li>\n  <li><p> Familiar with common materials, processes, and practices to produce catheter based medical devices.</p></li>\n  <li><p> Technical ability and passion for understanding complex mechanical designs, risk management and design controls</p></li>\n  <li><p> Experience with GD&amp;T, stack-up analysis, and mechanical testing.</p></li>\n  <li><p> Strong verbal and written communications with ability to effectively communicate at multiple levels in the organization.</p></li>\n  <li><p> Multitasks, prioritizes, and meets deadlines in timely manner.</p></li>\n  <li><p> Strong organizational and follow-up skills, as well as attention to detail.</p></li>\n  <li><p> Has broad knowledge of various technical alternatives and their potential impact on the business.</p></li>\n </ul>\n <p></p>\n <p><b> Apply Now</b></p>\n <p></p>\n <ul>\n  <li>Participants who complete a short wellness assessment qualify for FREE coverage in our HIP PPO medical plan. Free coverage applies in the next calendar year.</li>\n </ul>\n <p></p>\n <p><b> Learn more about our health and wellness benefits, which provide the security to help you and your family live full lives: </b>www.abbottbenefits.com</p>\n <p></p>\n <p> Follow your career aspirations to Abbott for diverse opportunities with a company that can help you build your future and live your best life. Abbott is an Equal Opportunity Employer, committed to employee diversity.</p>\n <p></p>\n <p> Connect with us at www.abbott.com, on Facebook at www.facebook.com/Abbott and on Twitter @AbbottNews and @AbbottGlobal.</p>\n <p><br> The base pay for this position is $55,200.00 – $110,400.00. In specific locations, the pay range may vary from the range posted.</p>\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "benefitsModel": [
+            "Health insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "19 days ago",
+          "source": "Abbott Laboratories",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=6b25cd61085b97a7&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXi_pbUJP3jz_DGoyRPrRuHLv7HS5BC33cwxBN7cGL8M7B6GUiXWn5EdZ8s2ElCNPT4quHIWqlPLjpbpGyDOO9yhoSv8YEKAYjVQ_1uSlsDqDxh8n-rvONu3l1tWZXAuyXTiGrAPrRMOVK9K1ht4427yCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=d57175cf493cd17e&assa=4883",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=6b25cd61085b97a7&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 110400,
+          "salaryMin": 55200,
+          "salaryType": "YEARLY",
+          "salaryText": "$55,200 - $110,400 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-r&d-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "R&D Engineer jobs in Santa Clara, CA",
+            "what": "R&D Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-abbott-laboratories-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at Abbott Laboratories in Santa Clara, CA",
+            "what": "Abbott Laboratories",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?q1=R%26D+Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "R&D Engineer salaries in Santa Clara, CA",
+            "what": "R&D Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "738ee9a3f0560f8e",
+        "location": "Santa Clara, CA",
+        "company": {
+          "companyName": "INTEL",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Intel-Corporation?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81n5skedq80b&fromjk=738ee9a3f0560f8e",
+          "companyReviewLink": "https://www.indeed.com/cmp/Intel-Corporation/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81n5skedq80b&fromjk=738ee9a3f0560f8e&jt=Facilities+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a458bf4fc3f3de2f1a11c8236832b909",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/9f323634f87598591faa208487a0fbb1",
+          "companyRating": {
+            "ariaContent": "4.1 out of 5 stars. Link to 6,345 company reviews (opens in a new tab)",
+            "count": 6345,
+            "countContent": "6,345 reviews",
+            "rating": 4.1
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA",
+          "jobTitle": "Facilities Engineer",
+          "jobDescription": "<p></p>\n<div>\n <h2 class=\"jobSectionHeader\"><b>Job Description</b></h2>\n <p><br> Join Intel-and build a better tomorrow. Intel is in the midst of an exciting transformation, with a vision to create and extend computing technology to connect and enrich the lives of every person on Earth. So join us-and help us create the next generation of technologies that will shape the future for decades to come.</p>\n <p></p>\n <p> Corporate Services (CS) touches the lives of every Intel employee every day. CS creates an environment where employees can prosper while creating the innovative technologies that make amazing possible. Our scope is vast and includes operating and maintaining all Intel sites, offices, labs and factories globally as well as onsite services and onsite services and experiences that help employees stay safe and productive. CS also helps to make Intel and our community a greener place by supporting Intel's commitment to environmental sustainability, including investing in conservation projects, setting company-wide environmental targets and driving reductions in greenhouse emissions, energy use, water use and waste generation.</p>\n <p></p>\n <p> In addition, CS approaches Diversity &amp; Inclusion with the same rigor, accountability and visibility as our critical business strategies, embedding diversity and inclusion practices in everything we do! We are responsible for building an environment where all employees feel empowered to achieve their full potential. We are a global workforce that generates diversity of thought and innovation, resulting in better overall business results. Corporate Services values and embraces individual uniqueness and empowers employees to bring their whole selves to deliver their very best. We thoughtfully embed inclusivity and diversity as core strengths in our hiring, career development and training practices. Corporate Services’ success depends on our people and we highly value our amazing employees. Make Corporate Services your workplace of choice today!</p>\n <p></p>\n <p><b> As a Facilities Engineer -</b><b> </b><b>your responsibilities will include but are not limited to: </b></p>\n <ul>\n  <li>Deliver best in class facilities performance thru equipment sustaining support for safe uninterrupted factory operations while reducing operating costs </li>\n  <li>Own facilities system documentation and maintenance strategy</li>\n  <li> Develop and edit technical documents including operating documents, job plans, and troubleshooting documents</li>\n  <li> Daily planning and coordination of work with engineering and technician teams</li>\n  <li> Provide direct support and maintain periodic communication with key suppliers to ensure the latest and most cost-effective solutions are implemented and that technical accuracy is maintained in master specifications and standards</li>\n  <li> Communicate and collaborate with people in different levels of the organization including engineering group leaders, operations Group Leaders, facilities TD engineers and others as needed</li>\n  <li> Become an expert in tool hardware, maintenance, process, and critical outputs</li>\n  <li> Provide support for multiple projects with minimal supervision</li>\n  <li> Provide engineering support and technical guidance to various construction and sustaining facility design teams </li>\n  <li>Participate in design reviews as needed to evaluate design, construction, and installation methods </li>\n  <li>Rotational on-call responsibilities in a 24x7 manufacturing environment</li>\n  <li> Lead in planning, design, reconfiguration, construction, maintenance, and modifications of Intel's manufacturing facilities systems</li>\n  <li> Develop and execute strategic initiatives for safety, quality, and/or reliability of facilities systems</li>\n  <li> Support construction projects for cost efficiencies, reliability improvements, or capacity upgrades to meet customer needs</li>\n  <li> Review system parameter trends and weekly Process Control Systems Analysis (PCSA) to check the health of facilities systems</li>\n  <li> Read and interpret design drawings and specifications for facilities systems</li>\n  <li> Utilize the Corporate Services business processes such as Model-Based Problem Solving (MBPS) technique and After Action Reviews (AAR), for evaluating root cause, contributing factors, and improving facilities systems</li>\n  <li> Role model field presence and leadership to cultivate collaborative relationships with team members</li>\n  <li> Onsite presence will be required based off facilities system needs</li>\n </ul>\n <p></p>\n <p><b> The successful candidate should exhibit the following behavioral traits:</b></p>\n <ul>\n  <li> Analytical skills </li>\n  <li>Role modeling safety behaviors</li>\n  <li> Influencing team members</li>\n  <li> Organization and time management and project management skills</li>\n  <li> Willingness to excel as an individual contributor and part of a team and work effectively across multiple facilities operations disciplines</li>\n  <li> Written and verbal communication skills</li>\n  <li> Team player</li>\n  <li> Presentation skills to communicate to technical and non-technical audiences </li>\n  <li>Willingness to solve complicated problems</li>\n  <li> Willingness to work on diverse tasks in an ambiguous environment</li>\n  <li> Safety commitment and a demonstrated safety role model</li>\n  <li> Skills with MS Office Suite Outlook Word Excel</li>\n  <li> System troubleshooting skills</li>\n </ul>\n <p></p>\n <p><b> What we offer:</b></p>\n <ul>\n  <li> We give you opportunities to transform technology and create a better future, by delivering products that touch the lives of every person on earth. As a global leader in innovation and new technology, we foster a collaborative, supportive, and exciting environment-where the brightest minds in the world come together to achieve exceptional results. </li>\n  <li>We offer a competitive salary and financial benefits such as bonuses, life and disability insurance, opportunities to buy Intel stock at a discounted rate, and Intel stock awards (eligibility at the discretion of Intel Corporation).</li>\n  <li> We provide benefits that promote a healthy, enjoyable life: excellent medical plans, wellness programs and amenities, flexible work hours, time off, recreational activities, discounts on various products and services, and many more creative perks that make Intel a Great Place to Work.</li>\n  <li> We're constantly working on making a more connected and intelligent future, and we need your help. Change tomorrow. Start today.</li>\n </ul>\n <h2 class=\"jobSectionHeader\"><b><br> Qualifications</b></h2>\n <p><br> You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. <b>Position not eligible for Intel immigration sponsorship.</b></p>\n <p></p>\n <p><b> Minimum Qualifications:</b></p>\n <p></p>\n <p> The candidate must possess at least one of the following degrees plus the years of experience determined for each degree in the areas specified below:</p>\n <ul>\n  <li> Bachelor's degree in Electrical Engineering, Instrumentation and Controls Systems, Mechanical Engineering, Computer Science, Chemical Engineering, Chemistry, Environmental Engineering, Physics, Civil Engineering or related scientific STEM fields with 2+ years of experience.</li>\n  <li> Master's degree in Electrical Engineering, Instrumentation and Controls Systems, Mechanical Engineering, Computer Science, Chemical Engineering, Chemistry, Environmental Engineering, Physics, Civil Engineering or related scientific STEM fields with 1+ year of experience.</li>\n  <li> PhD degree in Electrical Engineering, Instrumentation and Controls Systems, Mechanical Engineering, Computer Science, Chemical Engineering, Chemistry, Environmental Engineering, Physics, Civil Engineering or related scientific STEM fields.</li>\n </ul>\n <p></p>\n <h2 class=\"jobSectionHeader\"><b><br> Inside this Business Group</b></h2>\n <br> As the world's largest chip manufacturer, Intel strives to make every facet of semiconductor manufacturing state-of-the-art - from semiconductor process development and manufacturing, through yield improvement to packaging, final test and optimization, and world class Supply Chain and facilities support. Employees in the Technology Development and Manufacturing Group are part of a worldwide network of design, development, manufacturing, and assembly/test facilities, all focused on utilizing the power of Moore’s Law to bring smart, connected devices to every person on Earth.\n <br> \n <h2 class=\"jobSectionHeader\"><b> Other Locations</b></h2>\n <br> US, AZ, Phoenix; US, CA, Santa Clara\n <br> \n <h2 class=\"jobSectionHeader\"><b> Posting Statement</b></h2>\n <br> All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance.\n <br> \n <h2 class=\"jobSectionHeader\"><b> Benefits</b></h2>\n <br> We offer a total compensation package that ranks among the best in the industry. It consists of competitive pay, stock, bonuses, as well as, benefit programs which include health, retirement, and vacation. Find more information about all of our Amazing Benefits here.\n <br> \n <br> Annual Salary Range for jobs which could be performed in US, California: $92,847.00-$148,355.00\n <br> \n <ul>\n  <li>Salary range dependent on a number of factors including location and experience</li>\n </ul>\n <h2 class=\"jobSectionHeader\"><b><br> Working Model</b></h2>\n <br> This role will be eligible for our hybrid work model which allows employees to split their time between working on-site at their assigned Intel site and off-site. <b>In certain circumstances the work model may change to accommodate business needs.</b>\n <p><br> JobType </p>\n <p>Hybrid</p>\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "On call"
+          ],
+          "benefitsModel": [
+            "Disability insurance",
+            "Flexible schedule",
+            "Health insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "5 days ago",
+          "source": "Intel",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=738ee9a3f0560f8e&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXju58j8IG-Ea_10ml9hvMgD9J9Rzj__IILe9GyqRP675LQ6qYVVWt6myOHkLd84CnJ8eLhqliOHXjZEh4batFhsWGggzBWZ8HNG3uB3ZovMkS_x_5hSppxMZICnl_WSUwAVMU6wlz7IF-L1JNY6hwPTCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=d43970a790d0c9dd&assa=4920",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=738ee9a3f0560f8e&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 148355,
+          "salaryMin": 92847,
+          "salaryType": "YEARLY",
+          "salaryText": "$92,847 - $148,355 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-facilities-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Facilities Engineer jobs in Santa Clara, CA",
+            "what": "Facilities Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-intel-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at INTEL in Santa Clara, CA",
+            "what": "INTEL",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?q1=Facilities+Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Facilities Engineer salaries in Santa Clara, CA",
+            "what": "Facilities Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "c4c94d52349c67df",
+        "location": "San Jose, CA",
+        "company": {
+          "companyName": "ASML",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Asml?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81ndonatm801&fromjk=c4c94d52349c67df",
+          "companyReviewLink": "https://www.indeed.com/cmp/Asml/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81ndonatm801&fromjk=c4c94d52349c67df&jt=Senior+Product+Engineer+-+Optical+Imaging",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/615e0429f4192d6bef1441f390ca366d",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/bc6fb0df462b5c4392cf1f09f48a80f9",
+          "companyRating": {
+            "ariaContent": "3.8 out of 5 stars. Link to 424 company reviews (opens in a new tab)",
+            "count": 424,
+            "countContent": "424 reviews",
+            "rating": 3.8
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "San Jose, CA",
+          "jobTitle": "Senior Product Engineer - Optical Imaging",
+          "jobDescription": "<div>\n <div>\n  <div>\n   <b>Job ID: </b>J-00291545 \n  </div>\n  <div>\n   <h2 class=\"jobSectionHeader\"><b>Introduction to the job </b></h2>\n   <p>ASML/Brion brings together the most creative minds in science and technology to develop computational lithography software to enable customers on the best process window enhancement solution for the next generation HighNA EUV scanner, as well as best process window control solution to mitigate the process variation during the scanner operation, providing holistic solution for advanced nodes in semi-conductor industries. </p>\n   <p></p>\n   <h2 class=\"jobSectionHeader\"><b>Role and responsibilities </b></h2>\n   <ul>\n    <li>Feasibility study of advanced imaging for ASML scanner application, including study the imaging impact with illumination, mask correction, aberration, overlay and mirror/lens heating. </li>\n    <li>Design software component to support customer’s request on process window enhancement and process window control for ASML scanner application. </li>\n    <li>Perform qualification test, lead wafer validation and generate proof data, provide training slides, user guide and other technical documents. </li>\n    <li>Work with local application engineer to support customer activity, promoting ASML scanner and application adoption. </li>\n   </ul>\n   <p></p>\n   <h2 class=\"jobSectionHeader\"><b>Education and experience </b></h2>\n   <ul>\n    <li>PhD., or Master’s degree in Optics, Electrical Engineering, Mechanical Engineering or Physics with experience in Optical Design, Lithography, semiconductor/EDA industry. </li>\n    <li>Minimum 0-2 of Years of relevant experience </li>\n   </ul>\n   <p></p>\n   <h2 class=\"jobSectionHeader\"><b>Skills </b></h2>\n   <ul>\n    <li>Solid understanding of Fourier Optics Imaging and Abbe/Hopkin Imaging Theory. </li>\n    <li>Knowledge / hands-on experience with Simulation Software / Technical tools (i.e. Python, Matlab, etc.) Experience with Rigorous Optical Simulation is a plus (FDTD, RCWA) </li>\n    <li>Soft skill requirements (i.e. strong English communication skills – both written and oral, ability to influence, etc.). </li>\n    <li>Knowledge of Data Analytics and Machine Learning. </li>\n    <li>Knowledge in optimization theory, including Convex optimization theory and gradient based optimization. </li>\n   </ul>\n   <p></p>\n   <h2 class=\"jobSectionHeader\"><b>Other information </b></h2>\n   <ul>\n    <li>Routinely required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch. Occasionally required to move around the campus. </li>\n    <li>Occasionally lift and/or move up to 20 pounds. </li>\n    <li>Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus. </li>\n   </ul>\n   <p></p>\n   <p>This position requires 3 days a week working from our San Jose office. </p>\n   <p></p>\n   <p>EOE AA M/F/Veteran/Disability </p>\n   <p></p>\n   <p>Need to know more about applying for a job at ASML? Read our frequently asked questions . </p>\n   <p></p>\n   <h2 class=\"jobSectionHeader\"><b>Diversity and inclusion </b></h2>\n   <p>ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that diversity and inclusion is a driving force in the success of our company. </p>\n   <p></p>\n   <p>Need to know more about applying for a job at ASML? Read our frequently asked questions . </p>\n   <p></p>\n   <h2 class=\"jobSectionHeader\"><b>Request an Accommodation </b></h2>\n   <p>ASML provides reasonable accommodations to applicants for ASML employment and ASML employees with disabilities. An accommodation is a change in work rules, facilities, or conditions which enable an individual with a disability to apply for a job, perform the essential functions of a job, and/or enjoy equal access to the benefits and privileges of employment. If you are in need of an accommodation to complete an application, participate in an interview, or otherwise participate in the employee pre-selection process, please send an email to <b>USHRServiceCenter@asml.com </b>to initiate the company’s reasonable accommodation process.</p>\n  </div>\n </div>\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": "ASML",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=c4c94d52349c67df&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgjM4f3MWLjXTkQhx7ym4_CKP06T904dVrftiqrLL5GiVolN01LNAqZOr6arkO5N4d7O-GLnAVCv1PMn_0TKEY7ohQ_mho_t__b1Wjm88q2ArOiy8IdtuztcbqO6RB-1yg6w126idrXVeb7tmo6gMP4CITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=a31449d8836e79d6&assa=5207",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=c4c94d52349c67df&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "San Jose, CA",
+          "estimatedSalary": {
+            "formattedRange": "$124K - $157K a year",
+            "max": 156563.28,
+            "min": 123645.914,
+            "type": "YEARLY"
+          },
+          "country": "US"
+        },
+        "salaryInfo": {},
+        "relatedLinks": [
+          {
+            "href": "/q-senior-product-engineer-l-san-jose,-ca-jobs.html",
+            "linkText": "Senior Product Engineer jobs in San Jose, CA",
+            "what": "Senior Product Engineer",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/q-asml-l-san-jose,-ca-jobs.html",
+            "linkText": "Jobs at ASML in San Jose, CA",
+            "what": "ASML",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/salary?q1=Senior+Product+Engineer&l1=San+Jose%2C+CA",
+            "linkText": "Senior Product Engineer salaries in San Jose, CA",
+            "what": "Senior Product Engineer",
+            "where": "San Jose, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "838436739ce63b62",
+        "location": "Newark, CA 94560",
+        "company": {
+          "companyName": "Cepheid",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Cepheid?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81nhuimb6805&fromjk=838436739ce63b62",
+          "companyReviewLink": "https://www.indeed.com/cmp/Cepheid/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81nhuimb6805&fromjk=838436739ce63b62&jt=Equipment+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e53780ed9b74bdf73212bc0b219ee8cc",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/a160a92a0909545f1b5aa18781334fd0",
+          "companyRating": {
+            "ariaContent": "3.5 out of 5 stars. Link to 327 company reviews (opens in a new tab)",
+            "count": 327,
+            "countContent": "327 reviews",
+            "rating": 3.5
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Newark, CA 94560",
+          "jobTitle": "Equipment Engineer",
+          "jobDescription": "<div>\n <p>At Cepheid, we are passionate about improving health care through fast, accurate diagnostic testing. Our mission drives us every moment of every day as we develop scalable, groundbreaking solutions to solve the world’s most complex health challenges. Our associates are involved in every stage of molecular diagnostics, from ideation to development and delivery of testing advancements that improve patient outcomes across a range of settings. As a member of our team, you can make an immediate, measurable impact on a global scale, within an environment that fosters career growth and development.</p>\n <p></p>\n <p> Cepheid is proud to work alongside a community of six fellow Danaher Diagnostics companies. Together, we’re working at the pace of change on diagnostic tools that address the world’s biggest health challenges, driven by knowing that behind every test there is a patient waiting.</p>\n <p></p>\n <p> Learn about the Danaher Business System which makes everything possible.</p>\n <p></p>\n <p> The <b>Equipment Engineer</b> is responsible for providing high quality DNA microarrays, which are one of the core components of the consumable diagnostic platform being developed at Cepheid. In this role you will have the opportunity to influence the development of improved processes and to work cross-functionally across different departments and projects</p>\n <p></p>\n <p> This position is part of the Biochip Operations unit and will be located in Newark.</p>\n <p></p>\n <p><b> In this role, you will have the opportunity to:</b></p>\n <ul>\n  <li> Fabrication of high-precision DNA microarray components in a manufacturing facility cleanroom.</li>\n  <li> Operation/maintenance/validation of sophisticated automation equipment.</li>\n  <li> Assist Equipment owners determine the appropriate maintenance information for their processes through the evaluation of equipment specifications and provide trainings.</li>\n  <li> Experience troubleshooting and repairing different types of processing and lab equipment</li>\n  <li> Collaborate across disciplines to deliver critical consumables to internal customers and inclusive of an approachable and credible communication style.</li>\n </ul>\n <p></p>\n <p><b> The essential requirements of the job include:</b></p>\n <ul>\n  <li> Bachelor’s degree in Engineering (Mechanical, Manufacturing, or Industrial Engineering preferred) or equivalent experience</li>\n  <li> Three (3) or more years of professional experience (preferably in a manufacturing</li>\n  <li> Understanding of current manufacturing processes and best practices (equipment, robotics, non-conformance procedures, etc.)</li>\n  <li> Experience building, updating, and changing manufacturing routings and work instructions</li>\n  <li> Experience identifying and implementing improvements to processes, fixtures, jigs, and</li>\n </ul>\n <p></p>\n <p><b> It would be a plus if you also possess previous experience in:</b></p>\n <ul>\n  <li> Experience in working with validated and qualified process equipment and systems, and associated documentation with a good understanding of technical installations, process equipment, facilities and computerized systems within an industrial manufacturing or regulated environment.</li>\n  <li> Able to manage priorities to meet critical deadlines in a fast paced and dynamic, growing environment and to accommodate changes in the</li>\n </ul>\n <p></p>\n <p> Cepheid, a Danaher company, offers a broad array of comprehensive, competitive benefit programs that add value to our lives. Whether it’s a health care program or paid time off, our programs contribute to life beyond the job. Check out our benefits at danaherbenefitsinfo.com.</p>\n <p></p>\n <p> The salary range for this role is $126,000-$157,000. This is the range that we, in good faith, believe is the range of possible compensation for this role at the time of this posting. We may ultimately pay more or less than the posted range. This range may be modified in the future.</p>\n <p></p>\n <p> This job is also eligible for bonus/incentive pay.</p>\n <p></p>\n <p> We offer comprehensive package of benefits including paid time off, medical/dental/vision insurance and 401(k) to eligible employees.</p>\n <p></p>\n <p> Note: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole discretion unless and until paid and may be modified at the Company’s sole discretion, consistent with the law.</p>\n <p></p>\n <p> At Danaher we bring together science, technology and operational capabilities to accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life. Our global teams are pioneering what’s next across Life Sciences, Diagnostics, Biotechnology and beyond. For more information, visit www.danaher.com.</p>\n</div>\n<p></p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "Dental insurance",
+            "Health insurance",
+            "Paid time off",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": "Danaher",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=838436739ce63b62&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXiD3k7ctxLHz_81KXAHs01ChwklMtoNzpGTw5anLDierbR8bCJoxiHivCGPPFiq0Zk_1gI98eHsRD-dSfFmpqlHjODCPv9pbCKKhKrJIr8KuDkZsmHweE7PMZe5Mi1lCQkMYkCvcZr3vBmJT_L2iAjxCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=a50eefe0bb791c8a&assa=5477",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=838436739ce63b62&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Newark, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 157000,
+          "salaryMin": 126000,
+          "salaryType": "YEARLY",
+          "salaryText": "$126,000 - $157,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-equipment-engineer-l-newark,-ca-jobs.html",
+            "linkText": "Equipment Engineer jobs in Newark, CA",
+            "what": "Equipment Engineer",
+            "where": "Newark, CA"
+          },
+          {
+            "href": "/q-cepheid-l-newark,-ca-jobs.html",
+            "linkText": "Jobs at Cepheid in Newark, CA",
+            "what": "Cepheid",
+            "where": "Newark, CA"
+          },
+          {
+            "href": "/salary?q1=Equipment+Engineer&l1=Newark%2C+CA",
+            "linkText": "Equipment Engineer salaries in Newark, CA",
+            "what": "Equipment Engineer",
+            "where": "Newark, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "5c3efdb86caad828",
+        "location": "Palo Alto, CA 94303",
+        "company": {
+          "companyName": "Centrillion Technologies, Inc.",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Centrillion-Technologies?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81o0sihm687u&fromjk=5c3efdb86caad828",
+          "companyReviewLink": "https://www.indeed.com/cmp/Centrillion-Technologies/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81o0sihm687u&fromjk=5c3efdb86caad828&jt=Mechanical+Engineer",
+          "companyLogoUrl": null,
+          "headerImageUrl": null,
+          "companyRating": {
+            "ariaContent": "4.5 out of 5 stars. Link to 2 company reviews (opens in a new tab)",
+            "count": 2,
+            "countContent": "2 reviews",
+            "rating": 4.5
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Palo Alto, CA 94303",
+          "jobTitle": "Mechanical Engineer",
+          "jobDescription": "<div>\n <p>At <b>Centrillion</b>, we are at the forefront of multiple cutting-edge fields in genetics and biotechnology, including spatial genomics, ultra long DNA sequencing, rapid on-chip sequencing, viral sequencing, genotyping, and synthetic biology. Our innovative technologies and advanced high density DNA chips are transforming the way researchers and scientists approach genomic discovery.</p>\n <p> Our team of experts in science, engineering, and business is dedicated to making these breakthroughs accessible and affordable, and to unlocking the full potential of the genome. With our commitment to innovation and collaboration, we are leading the way in shaping the future of life sciences.</p>\n <p> Join us at <b>Centrillion</b> and be a part of our mission to bring the power of genomics to the world. With opportunities for growth and advancement, a supportive and inclusive work culture, and the chance to work on exciting and impactful projects, <b>Centrillion</b> is the place for those passionate about genetics and biotechnology. Help us make a lasting impact on the world through our innovative technologies.</p>\n <p><b> Centrillion Technologies</b> is seeking a <b>Mechanical Engineer</b> to assist in the development of innovative manufacturing instrumentation for fabricating next generation genomic microchips. Our leading-edge genomic microchips are made in a Class 100 cleanroom, conforming to ISO and GMP standards, resulting in a superior product capable of delivering fast and accurate genomic information to scientific researchers as well as medical professionals.</p>\n <p><b> Responsibilities and Duties:</b></p>\n <ul> \n  <li> Work as part of a team driving products through their lifecycle including concept generation, prototyping, component assembly, extensive testing.</li> \n  <li>Help generate creative solutions to design/performance problems and demonstrate their feasibility by considering factors such as risk, reliability, manufacturability.</li> \n  <li>Lead in transitioning concepts into products using solid modeling tools, defining requirements, selecting materials and processes.</li> \n  <li>Assist in request for quoting duties, interacting with suppliers and manufacturers, and documenting the development process.</li> \n  <li>Help implement root cause analysis, design failure modes to root cause, and help develop quick, effective solutions.</li> \n  <li>Coordinate with others in a multi-disciplinary team environment that includes electrical, mechanical, chemistry, laboratory, software, industrial design, and controls.</li> \n  <li>Help in verification and validation activities through prototype testing and requirement verification.</li> \n </ul>\n <p><b> Qualifications:</b></p>\n <ul> \n  <li><b> MS degree in mechanical engineering or equivalent.</b></li> \n  <li><b>2+ years of experience is strongly preferred, preferably in a medical device or semiconductor</b> manufacturing environment.</li> \n  <li>Strong working knowledge of SolidWorks software is required.</li> \n  <li>Exposure to fluidics control, motion control, automation, etc. considered a plus.</li> \n  <li>Experience in machine shop practices, practical use of tools, and ability to do machining and construction of fixtures and components is a plus. </li>\n  <li>Excellent problem solving and analytical skills and ability to learn quickly in a dynamic environment.</li> \n  <li>Ability to work in a diverse and multi-disciplinary team environment is a must.</li> \n  <li>Must have excellent verbal and written communication skills.</li> \n  <li>Must be detail oriented, highly motivated, and focused on results.</li> \n  <li><b>Knowledge of Mandarin is desirable.</b></li> \n </ul>\n <p> The selected candidate should be a self-motivated, driven, thorough and careful experimentalist with the ability to multitask, think independently and will be expected to work independently as a demonstrated problem solver.</p>\n <p> Effective communication and presentation skills are required.</p>\n <p></p>\n <p><i> The pay range that the Company reasonably expects to pay for this position is between $70,000 to $90,000 per year. The pay ultimately offered may vary based on objective considerations, including job-related knowledge, skills, experience, and education. An annual cash bonus and equity grants may be provided as part of the overall compensation package, in addition to a full range of financial, health and wellness benefits, dependent on the position offered.</i></p>\n <p></p>\n <p><i><br> Centrillion Technologies, Inc is an equal opportunity employer, and we’re proud of our ongoing efforts to foster diversity &amp; inclusion in the Individuals seeking employment at Centrillion are considered without regard to race, color, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by applicable law.</i></p>\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "benefitsModel": [
+            "Opportunities for advancement"
+          ]
+        },
+        "jobMetadata": {
+          "age": "7 days ago",
+          "source": "Centrillion Technologies, Inc.",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=5c3efdb86caad828&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgv9yJ11Mqn3ZzesBF1C7kBiLybTURAuxvF2DwcTpe8aFb1OCXY40pQI1kK_v8fF8gWk41tPdYu3JpY5jsnD9CD5jsV4kkxSZ6ZUc4KOG0r856OAfEH7jltjy2tOknL70Meu0MAN-DDGM_Bg2t1KBCyCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=71ba0cb04369e913&assa=5906",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=5c3efdb86caad828&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Palo Alto, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 90000,
+          "salaryMin": 70000,
+          "salaryType": "YEARLY",
+          "salaryText": "$70,000 - $90,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-mechanical-engineer-l-palo-alto,-ca-jobs.html",
+            "linkText": "Mechanical Engineer jobs in Palo Alto, CA",
+            "what": "Mechanical Engineer",
+            "where": "Palo Alto, CA"
+          },
+          {
+            "href": "/q-centrillion-technologies-l-palo-alto,-ca-jobs.html",
+            "linkText": "Jobs at Centrillion Technologies in Palo Alto, CA",
+            "what": "Centrillion Technologies",
+            "where": "Palo Alto, CA"
+          },
+          {
+            "href": "/salary?q1=Mechanical+Engineer&l1=Palo+Alto%2C+CA",
+            "linkText": "Mechanical Engineer salaries in Palo Alto, CA",
+            "what": "Mechanical Engineer",
+            "where": "Palo Alto, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "acefdd4a8cf826e0",
+        "location": "Menlo Park, CA 94025",
+        "company": {
+          "companyName": "SLAC National Accelerator Laboratory",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Slac-National-Accelerator-Laboratory?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81o9pkojm813&fromjk=acefdd4a8cf826e0",
+          "companyReviewLink": "https://www.indeed.com/cmp/Slac-National-Accelerator-Laboratory/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81o9pkojm813&fromjk=acefdd4a8cf826e0&jt=Beamline+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4cb6071a9e8e9429c62427e8f4d09508",
+          "headerImageUrl": null,
+          "companyRating": {
+            "ariaContent": "4.1 out of 5 stars. Link to 44 company reviews (opens in a new tab)",
+            "count": 44,
+            "countContent": "44 reviews",
+            "rating": 4.1
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Menlo Park, CA 94025",
+          "jobTitle": "Beamline Engineer",
+          "jobDescription": "<div>\n <h2 class=\"jobSectionHeader\"><b>SLAC Job Postings</b></h2>\n <div>\n  <br> \n  <div>\n   <div> \n   </div>\n   <p><b>Position Overview:</b></p>\n   <p> Stanford Synchrotron Radiation Lightsource (SSRL), a SLAC Directorate at Stanford University, is a national scientific user facility providing synchrotron radiation for research in biology, chemistry, engineering, environmental science, material science, medicine, and physics. SSRL operates and maintains the 3GeV electron storage ring SPEAR3, the associated injector facility, and synchrotron radiation beam lines on SPEAR3.</p>\n   <p> SSRL is seeking an outstanding engineer who will be part of a dynamic scientific research environment in the Soft X-ray Group of the Materials Sciences Division. The primary responsibility of this position is to provide engineering support to the soft x-ray group, including the optimization and upgrade of existing soft x-ray beam lines, assist scientists with instrument development on the end stations, and oversee the safe operation of soft x-ray beam lines and end stations.</p>\n   <p><b> Your specific responsibilities of this position include, but are not limited to:</b></p>\n   <ul> \n    <li>Manage the engineering process from conception through design, construction, and field installation. This includes interfacing with scientists to develop project requirements and technicians to ensure proper component assembly and installation.</li> \n    <li>Develop, construct and commission complex experimental end station.</li> \n    <li>Design, prototype, procure, and assemble scientific equipment/component.</li> \n    <li>Optimize the performance of beamlines through beam diagnosis and optics alignment.</li> \n    <li>Upgrade beamline components to improve the beam quality.</li> \n    <li>Maintain, modify, repair, and troubleshoot equipment and experimental systems.</li> \n    <li>Other duties may also be assigned.</li>\n   </ul>\n   <p><b> To be successful in this position you will bring:</b></p>\n   <ul> \n    <li>A bachelor’s degree in engineering or industrial design and 2 years’ experience in mechanical design using CAD systems.</li> \n    <li>Demonstrate the ability to conceptualize designs and have strong analytical and problem-solving skills combined with creative and innovating thinking.</li> \n    <li>Experience in applying scientific and engineering principles and practices to perform services and support.</li> \n    <li>Experience with mechanical systems. Understanding of machining and other fabrication techniques related to mechanical systems design.</li> \n    <li>Experience with software applications, systems, or programs relevant to the job. Ability to interpret and determine validity of data and check own work.</li> \n    <li>Ability to work in a team environment as well as work unsupervised within adequate procedural guidelines.</li> \n    <li>Must have excellent verbal and written communication skills.</li>\n   </ul>\n   <p><b> In addition, preferred requirements include experience in the following areas:</b></p>\n   <ul> \n    <li>Experience with scientific instrumentation and complex mechanical systems.</li> \n    <li>Experience with ultrahigh vacuum (UHV) systems and assembly.</li> \n    <li>Experience using parametric CAD software.</li> \n    <li>Strong hands-on skill.</li>\n   </ul>\n   <p><b> SLAC Employee Competencies:</b></p>\n   <ul> \n    <li>Effective Decisions: Uses job knowledge and solid judgment to make quality decisions in a timely manner.</li> \n    <li>Self-Development: Pursues a variety of venues and opportunities to continue learning and developing.</li> \n    <li>Dependability: Can be counted on to deliver results with a sense of personal responsibility for expected outcomes.</li> \n    <li>Initiative: Pursues work and interactions proactively with optimism, positive energy, and motivation to move things forward.</li> \n    <li>Adaptability: Flexes as needed when change occurs, maintains an open outlook while adjusting and accommodating changes.</li> \n    <li>Communication: Ensures effective information flow to various audiences and creates and delivers clear, appropriate written, spoken, presented messages.</li> \n    <li>Relationships: Builds relationships to foster trust, collaboration, and a positive climate to achieve common goals.</li>\n   </ul>\n   <p><b> Physical Requirements and Working Conditions:</b></p>\n   <ul> \n    <li>Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of the job. </li>\n    <li>Given the nature of this position, SLAC will require onsite work full time.</li>\n   </ul>\n   <p><b> Work Standards:</b></p>\n   <ul> \n    <li>Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.</li> \n    <li>Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for environment, safety and security; communicates related concerns; uses and promotes safe behaviors based on training and lessons learned. Meets the applicable roles and responsibilities as described in the ESH Manual, Chapter 1—General Policy and Responsibilities:</li> \n    <li>Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide,</li>\n   </ul>\n   <p> -</p>\n   <ul> \n    <li>Classification: Staff Engineer 2</li> \n    <li>Grade: K, Job Code: 0132</li> \n    <li>Duration: regular continuing</li>\n   </ul>\n   <p> The expected pay range for this position is $108,000 - $163,000 per annum. SLAC National Accelerator Laboratory/Stanford University provides pay ranges representing its good faith estimate of what the university reasonably expects to pay for a position. The pay offered to a selected candidate will be determined based on factors such as (but not limited to) the scope and responsibilities of the position, the qualifications of the selected candidate, departmental budget availability, internal equity, geographic location and external market pay for comparable jobs.</p>\n  </div>\n </div>\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ]
+        },
+        "jobMetadata": {
+          "age": "Just posted",
+          "source": "SLAC National Accelerator Laboratory",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=acefdd4a8cf826e0&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXgmDk14C3scShOXb4c2-f3SYO5H1_skaZjEDWX1gjBt83jG-C9OBhoa6_T36y4XqEaQHtLwowmpm9xyWlyQwXCLfwr15EB3uY1oUFHvzPu1eDP3Z1_nB9d3oEs4GZkXLbnlce8qIu0rJYM7tEuStnXXCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=64c2c53bbec3fcfa&assa=6089",
+          "phoneNumber": null,
+          "postedToday": true,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=acefdd4a8cf826e0&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Menlo Park, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 163000,
+          "salaryMin": 108000,
+          "salaryType": "YEARLY",
+          "salaryText": "$108,000 - $163,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-engineer-l-menlo-park,-ca-jobs.html",
+            "linkText": "Engineer jobs in Menlo Park, CA",
+            "what": "Engineer",
+            "where": "Menlo Park, CA"
+          },
+          {
+            "href": "/q-slac-national-accelerator-laboratory-l-menlo-park,-ca-jobs.html",
+            "linkText": "Jobs at SLAC National Accelerator Laboratory in Menlo Park, CA",
+            "what": "SLAC National Accelerator Laboratory",
+            "where": "Menlo Park, CA"
+          },
+          {
+            "href": "/salary?q1=Engineer&l1=Menlo+Park%2C+CA",
+            "linkText": "Engineer salaries in Menlo Park, CA",
+            "what": "Engineer",
+            "where": "Menlo Park, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "88521b117e3a8488",
+        "location": "Santa Clara, CA",
+        "company": {
+          "companyName": "QSS",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Qss?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81orkitlh801&fromjk=88521b117e3a8488",
+          "companyReviewLink": "https://www.indeed.com/cmp/Qss/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81orkitlh801&fromjk=88521b117e3a8488&jt=CAD+Mechanical+Design+Engineer",
+          "companyLogoUrl": null,
+          "headerImageUrl": null,
+          "companyRating": {
+            "ariaContent": "3.7 out of 5 stars. Link to 26 company reviews (opens in a new tab)",
+            "count": 26,
+            "countContent": "26 reviews",
+            "rating": 3.7
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA",
+          "jobTitle": "CAD Mechanical Design Engineer",
+          "jobDescription": "<p>Job Title: CAD Mechanical Design Engineer</p>\n<p>Location: Santa Clara CA</p>\n<p>Duration: Contract</p>\n<p>Job Description:</p>\n<p>? Experience in aerospace new product designs.?</p>\n<p>Strong understanding of Drafting/Drawing and related standards.?</p>\n<p>Proficiency in operating CAD packages.? Excellent communication and presentation skills ?</p>\n<p>both verbal and written with ability to make necessary status reports and technical presentations to Eaton management.?</p>\n<p>Strong analytical skills and Broad knowledge of the Aerospace industry and related parts.</p>\n<p>EIS : Aerospace Design - Mechanical System</p>\n<p>Job Type: Contract</p>\n<p>Pay: $60.00 - $70.00 per hour</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>401(k) matching</li>\n <li>Dental insurance</li>\n <li>Health insurance</li>\n <li>Life insurance</li>\n <li>Paid time off</li>\n <li>Vision insurance</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n</ul>\n<p>Ability to Relocate:</p>\n<ul>\n <li>Santa Clara, CA: Relocate before starting work (Required)</li>\n</ul>\n<p>Work Location: On the road</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Contract",
+              "sentiment": "UNKNOWN",
+              "suid": "NJXCK"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "401(k) matching",
+            "Dental insurance",
+            "Health insurance",
+            "Life insurance",
+            "Paid time off",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "27 days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=88521b117e3a8488&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 70,
+          "salaryMin": 60,
+          "salaryType": "HOURLY",
+          "salaryText": "$60 - $70 an hour",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-cad-designer-l-santa-clara,-ca-jobs.html",
+            "linkText": "CAD Designer jobs in Santa Clara, CA",
+            "what": "CAD Designer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-qss-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at QSS in Santa Clara, CA",
+            "what": "QSS",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=CAD+Designer&l1=Santa+Clara%2C+CA",
+            "linkText": "CAD Designer salaries in Santa Clara, CA",
+            "what": "CAD Designer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "c27821f5d13f9e27",
+        "location": "Santa Clara, CA 95054",
+        "company": {
+          "companyName": "NHK International Corporation",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Nhk-International-Corporation?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81qe82jl500d&fromjk=c27821f5d13f9e27",
+          "companyReviewLink": "https://www.indeed.com/cmp/Nhk-International-Corporation/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81qe82jl500d&fromjk=c27821f5d13f9e27&jt=Project+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2d38f288883192f9f36dcc57a01a3028",
+          "headerImageUrl": null,
+          "companyRating": {
+            "ariaContent": "3 out of 5 stars. Link to 7 company reviews (opens in a new tab)",
+            "count": 7,
+            "countContent": "7 reviews",
+            "rating": 3
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA 95054",
+          "jobTitle": "Project Engineer",
+          "jobDescription": "<p>Provides operational and analytical support within our ICM Department for semiconductor manufacturing equipment. Serves as a resource with design, process, manufacturing, test, quality and the maintenance program as the product(s) move from design to production.</p>\n<p><b>Primary Responsibilities:</b></p>\n<ul>\n <li>Lead a team of Engineers in a fast paced and fluid environment. Collaborate with cross-functional teams including Product Design, Manufacturing, Quality and Product Operations to deliver products to customers.</li>\n <li>Point of contact for new product introduction.</li>\n <li>Provide design for manufacturability (DFM) reviews of our products. Make recommendations to customer to improve manufacturing processes for quality and cost.</li>\n <li>Use statistical process control and studies to validate process capability, establish reasonable specifications, and drive process improvements in partnership with Tooling and Manufacturing Process Engineers.</li>\n <li>Identify and highlight manufacturability issues during engineering builds to ensure product quality is stable and that supply is predictable during ramp.</li>\n <li>Support quality requirements of US based supply chain. Will require knowledge of customer specifications in order to disposition reported failures observed by the supply chain.</li>\n</ul>\n<p><b>Minimum Qualifications</b></p>\n<ul>\n <li>Bachelor’s degree in Mechanical Engineering or equivalent practical experience within the semiconductor field.</li>\n <li>Experience managing a team of Design, Product or Quality Engineers.</li>\n <li>Ability to communicate with customer commodity management groups on development timelines and qualification statuses.</li>\n <li>Experience with statistical process control, fixture design/qualification, cosmetic inspection metrology, and measurement correlation.</li>\n</ul>\n<p><b>Preferred Qualifications</b></p>\n<ul>\n <li><b>3+ years of experience with semiconductor front-end manufacturing field, working with the transition of new products to production and with core mechanical manufacturing processes.</b></li>\n <li>Experience in communications with customer as interface.</li>\n <li>Knowledge of common semiconductor process (e.g., etching, ALD, CVD, PVD).</li>\n <li>Knowledge of common surface finishing operations (e.g., plasma spray coating, plating, anodizing, polishing, lapping and sandblasting).</li>\n <li>Knowledge of mechanical bonding processes (e.g., brazing, diffusion bonding, ultrasonic welding, adhesives, FSW).</li>\n <li>Ability to proactively influence the product design process by proposing improvements and associated data.</li>\n</ul>\n<p>Job Type: Full-time</p>\n<p>Pay: $120,000.00 - $150,000.00 per year</p>\n<p>Benefits:</p>\n<ul>\n <li>401(k)</li>\n <li>401(k) matching</li>\n <li>Dental insurance</li>\n <li>Flexible schedule</li>\n <li>Health insurance</li>\n <li>Life insurance</li>\n <li>Paid time off</li>\n <li>Tuition reimbursement</li>\n <li>Vision insurance</li>\n</ul>\n<p>Experience level:</p>\n<ul>\n <li>3 years</li>\n</ul>\n<p>Schedule:</p>\n<ul>\n <li>8 hour shift</li>\n <li>Monday to Friday</li>\n</ul>\n<p>Application Question(s):</p>\n<ul>\n <li>What is your current salary expectation?</li>\n</ul>\n<p>Education:</p>\n<ul>\n <li>Bachelor's (Required)</li>\n</ul>\n<p>Experience:</p>\n<ul>\n <li>Mechanical Engineering: 3 years (Required)</li>\n <li>semiconductor processes (e.g., etching, ALD, CVD, PVD): 3 years (Required)</li>\n <li>semiconductor front-end manufacturing: 3 years (Required)</li>\n</ul>\n<p>Work Location: Hybrid remote in Santa Clara, CA 95054</p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {
+            "text": "Hybrid work",
+            "type": "REMOTE_HYBRID"
+          },
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "8 hour shift",
+            "Monday to Friday"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "401(k) matching",
+            "Dental insurance",
+            "Flexible schedule",
+            "Health insurance",
+            "Life insurance",
+            "Paid time off",
+            "Tuition reimbursement",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "22 days ago",
+          "source": null,
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": "1",
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=c27821f5d13f9e27&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 150000,
+          "salaryMin": 120000,
+          "salaryType": "YEARLY",
+          "salaryText": "$120,000 - $150,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-project-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Project Engineer jobs in Santa Clara, CA",
+            "what": "Project Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-nhk-international-corporation-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at NHK International Corporation in Santa Clara, CA",
+            "what": "NHK International Corporation",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?from=vj&q1=Project+Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Project Engineer salaries in Santa Clara, CA",
+            "what": "Project Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "bc1bfd49e774ad6b",
+        "location": "San Jose, CA 95134",
+        "company": {
+          "companyName": "AlignTech",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Align-Technology?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81qesih72800&fromjk=bc1bfd49e774ad6b",
+          "companyReviewLink": "https://www.indeed.com/cmp/Align-Technology/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81qesih72800&fromjk=bc1bfd49e774ad6b&jt=R%26D+Engineer+III-+3D+Printing",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d735305b8f870c714e0fb6b081f8ba52",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/6671cb48b69b8f3fb640390a8cef6d64",
+          "companyRating": {
+            "ariaContent": "3.7 out of 5 stars. Link to 221 company reviews (opens in a new tab)",
+            "count": 221,
+            "countContent": "221 reviews",
+            "rating": 3.7
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "San Jose, CA 95134",
+          "jobTitle": "R&D Engineer III- 3D Printing",
+          "jobDescription": "<div></div>\n<div>\n <div>\n  <b>Join a team that is changing millions of lives.</b>\n </div>\n <div></div>\n <div>\n  <br> Transforming smiles, changing lives.\n </div>\n <div></div>\n <div>\n  <br> At Align Technology, we believe a great smile can transform a person’s life, so we create technology that gives people the confidence to take on whatever’s next. We revolutionized the orthodontic industry with the introduction of the Invisalign system, and we have never lost sight of that spirit of innovation. Our diverse and collaborative teams are constantly pushing the boundaries of what’s possible.\n </div>\n <div></div>\n <div>\n  <br> Ready to join us?\n </div>\n <div></div>\n <div>\n  <b><br> About this opportunity</b>\n </div>\n <p> The <b>R&amp;D Engineer III, 3D Printing</b> will be responsible for planning, leading and executing projects focusing on new product design and development within the Product Research Engineering team. As an R&amp;D Engineer, you will be a key team member optimizes product design along a highly multidisciplinary team working on 3D printing systems, processes, and materials.</p>\n <p></p>\n <div>\n  <b><br> In this role, you will…</b>\n </div>\n <ul>\n  <li> Leverage 3D technologies, software-platforms, and biomechanical principles to incorporate novel orthodontic solutions into design.</li>\n  <li> Lead product development projects and research projects until product launch</li>\n  <li> Create testing plans to cover efficacy, reliability, verification, and validation</li>\n  <li> Connect product outcomes back to the inputs and outputs of advanced 3D manufacturing processes.</li>\n  <li> Define procedures to evaluate real-world product performance and conduct bench top testing in accordance with FDA/ISO guidelines.</li>\n  <li> Supplement functional performance testing with metrological analysis and/or material characterization.</li>\n  <li> Coordinate the materials involved in experimental testing in the product development lifecycle.</li>\n  <li> Organize and investigate root cause analysis on complex data sets.</li>\n  <li> Utilize statistical tools to formulate, test, and interpret hypotheses.</li>\n  <li> Communicate project status and present findings to all levels of stakeholders.</li>\n  <li> Drive internal/external professional’s feedback into the next waves of product development.</li>\n  <li> General engineering support in Product Research &amp; Development (PR&amp;D).</li>\n </ul>\n <div>\n  <b> In this role, you’ll need …</b>\n </div>\n <ul>\n  <li> Knowledge and experience of additive manufacturing, rapid prototyping, and 3D modeling software.</li>\n  <li> Knowledge/experience in orthodontics, dental/medical device industry, and/or biomechanics.</li>\n  <li> Ability to generate creative solutions and iteratively evaluate concepts, designs, or methods.</li>\n  <li> Comfort with test method development and documentation best practices in regulated industries.</li>\n  <li> Experience with metrological tools and outputs for example, computed tomography, microscopy, etc.</li>\n  <li> Experience with mechanical or biomechanical equipment and/or material characterization techniques.</li>\n  <li> Experience with functional scripting, and/or programming for engineering (e.g. Python, C++/C, MATLAB)</li>\n  <li> Experience experimental statistical analysis and FEA analysis.</li>\n  <li> Thoroughness, attention to detail, problem-solving skills.</li>\n  <li> Ability to prioritize multiple tasks, will working proactively and effectively in a dynamic environment.</li>\n  <li> Strong, oral, written, and visual communication skills. Can conclude findings concisely and effectively.</li>\n  <li> A team player: supporting, learning from, and training all tiers of team members.</li>\n </ul>\n <p><b> Education Requirements:</b></p>\n <ul>\n  <li> B.S. in Mechanical or Biomedical Engineering or other related degree with 5+ years of directly related experience in product development and research; or </li>\n  <li>M.S. in Mechanical or Biomedical Engineering or other related degree with 3+ years of directly related experience in product development and research; or </li>\n  <li>PhD. in Mechanical or Biomedical Engineering or other related degree</li>\n </ul>\n <div>\n  <b> Sound like a good fit?</b>\n </div>\n <div>\n   Great! Click the \"Apply\" link to let us know you are interested. Not the right fit? Don’t worry, Align is quickly growing so we are creating more opportunities to expand our Align family. Please consider joining our Talent Network to receive notifications about future jobs or sharing this opportunity with others in your network.\n </div>\n <div></div>\n <div>\n  <b><br> About Align</b>\n </div>\n <div>\n   Align Technology is a publicly traded medical device company that is transforming smiles and changing lives. Our global team of talented employees develop innovative technology, tools and treatment options to help dental professionals worldwide achieve the clinical results they expect. Our digital ecosystem combines the power of technology to create beautiful smiles through the integration of AI and machine learning, digital imaging and visualization, biomechanics and material science to develop the Invisalign system, the most advanced clear aligner system in the world; iTero Intraoral Scanners and OrthoCAD digital services. Did you know? Align is the world’s largest manufacturer of custom 3D-printed materials.\n </div>\n <div></div>\n <div>\n  <br> By joining Align, you will be part of a global, fast-growing company in one of the most dynamic industries. Great people, innovative technologies, and meaningful work – these are just some of the things employees say make Align Technology a great place to work.\n </div>\n <div></div>\n <div>\n  <br> We respect your privacy. Please review our Applicant Privacy Policies for additional information.\n </div>\n <div></div>\n <div>\n  <b><br> Global Diversity Statement:</b>\n </div>\n <div>\n   At Align, we believe in the power of a smile, and we know that every smile is as unique as our employees. As we grow, we will continue building a workforce of diverse cultural backgrounds and life experiences and fostering a culture of open-mindedness and compassion for all our employees. We live our company values by promoting healthy people and healthy communities. All with the intent of changing millions of lives, one unique smile at a time.\n </div>\n <div></div>\n <div>\n  <b><br> Equal Opportunity Statement</b>\n </div>\n <div>\n   It is our policy to provide equal employment opportunity in all of our employment practices without regard to race, color, religion, sex, national origin, ancestry, marital status, protected veteran status, age, individuals with disabilities, sexual orientation or gender identity or expression or any other legally protected category. Applicants for positions with Align must be legally authorized to work in the country which they are applying for and verification of employment eligibility will be required as a condition of hire.\n </div>\n <div></div>\n <div>\n  <br> #LI-CL1\n </div>\n <br> \n <div></div> Primary Location Base Salary Range: $127,400 to $141,800 USD\n <br> \n <br> \n <br> Base salary ranges are a guideline used to determine appropriate pay. Placement depends on the individual skills and experience level of a candidate plus the total compensation and equity across team members. For other locations outside of the primary location, the base salary range will be adjusted geographically. For field Sales roles, the salary listed is the base pay only and does not include the applicable commission plan. A cost of living adjustment may be added to base pay for higher cost areas in the U.S. Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.\n</div>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Internship",
+              "sentiment": "UNKNOWN",
+              "suid": "VDTG7"
+            }
+          ]
+        },
+        "jobMetadata": {
+          "age": "30+ days ago",
+          "source": "Align Technology",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=bc1bfd49e774ad6b&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXhhw4iX1wKLV3ApkjdEZQaeZevyuI-F69FfqLvxHUw-hhxaeVYMh2S3J_fEpY__W6nl1R7eup2r0ghBCxfad0v19aXR4Ff3OewuKnmsbuhVr-LSXsi7XsmTWiNnYduFVEMsuVrTOw626UHAy4W8OFVLCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=83e935151f6eb945&assa=8367",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=bc1bfd49e774ad6b&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "San Jose, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 141800,
+          "salaryMin": 127400,
+          "salaryType": "YEARLY",
+          "salaryText": "$127,400 - $141,800 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-r&d-engineer-l-san-jose,-ca-jobs.html",
+            "linkText": "R&D Engineer jobs in San Jose, CA",
+            "what": "R&D Engineer",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/q-aligntech-l-san-jose,-ca-jobs.html",
+            "linkText": "Jobs at AlignTech in San Jose, CA",
+            "what": "AlignTech",
+            "where": "San Jose, CA"
+          },
+          {
+            "href": "/salary?q1=R%26D+Engineer&l1=San+Jose%2C+CA",
+            "linkText": "R&D Engineer salaries in San Jose, CA",
+            "what": "R&D Engineer",
+            "where": "San Jose, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      },
+      {
+        "jobKey": "78a18a84ea663460",
+        "location": "Santa Clara, CA",
+        "company": {
+          "companyName": "Johnson & Johnson",
+          "companyOverviewLink": "https://www.indeed.com/cmp/Johnson-&-Johnson?campaignid=mobvjcmp&from=mobviewjob&tk=1hvl81rstitlh803&fromjk=78a18a84ea663460",
+          "companyReviewLink": "https://www.indeed.com/cmp/Johnson-&-Johnson/reviews?campaignid=mobvjcmp&cmpratingc=mobviewjob&from=mobviewjob&tk=1hvl81rstitlh803&fromjk=78a18a84ea663460&jt=Firmware+Engineer",
+          "companyLogoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6944e7c7fc0e1f5d71702e344711d6e4",
+          "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/06305f1665b7e93d9decfcd23b581576",
+          "companyRating": {
+            "ariaContent": "4.2 out of 5 stars. Link to 8,055 company reviews (opens in a new tab)",
+            "count": 8055,
+            "countContent": "8,055 reviews",
+            "rating": 4.2
+          }
+        },
+        "jobInfo": {
+          "formattedLocation": "Santa Clara, CA",
+          "jobTitle": "Firmware Engineer",
+          "jobDescription": "<div>\n <p><b>Employer:</b> Auris Health, Inc. </p>\n <p><b>Job Title:</b> Firmware Engineer </p>\n <p><b>Job Code :</b> A011.35 </p>\n <p><b>Job Location : </b>Santa Clara, CA </p>\n <p><b>Job Type:</b> Full-Time </p>\n <p><b>Rate of Pay:</b> $136,000 - $150,000 </p>\n <p></p>\n <p><b>Job Duties: </b>Responsible for architecture design, development, and execution of the embedded firmware design of the Auris proprietary surgical robot product. Lead the development of firmware and embedded software for the Advanced Development team, Work closely with Electrical and Software engineers to deliver highly integrated embedded software solutions involving advanced motor control in an FDA regulated environment. Work on firmware development for embedded platforms and develop firmware for embedded microcontrollers and microprocessors. Validate designs through the process of prototyping, coding, and testing. Communicate and participate in design discussions and project planning with cross-functional team members. Integrate, test, and debug firmware designs on the hardware platform. Modify existing software to correct errors, enabling adaptation to new hardware, or improving performance. Analyze user needs and software requirements to determine feasibility for design within time and cost constraints. Design and develop firmware and software for both bare-metal microcontrollers and RTOS and participate in peer code reviews in order to improve software quality. </p>\n <h2 class=\"jobSectionHeader\"><b>Qualifications</b></h2> \n <div>\n  <p><b>Requirements: </b>Employer will accept a Bachelor’s degree in Medical Device and Diagnostic Engineering, Electronics Engineering, Biomedical Engineering, or related field and 3 years of experience in the job offered or in a Firmware Engineer-related occupation. </p>\n  <p>This job posting is anticipated to close on 6/6/2024. The Company may however extend this time-period, in which case the posting will remain available on https://www.careers.jnj.com to accept additional applications.</p>\n  <br> \n </div>\n <p></p>\n <p>Employees and/or eligible dependents may be eligible to participate in the following Company sponsored employee benefit programs: medical, dental, vision, life insurance, short- and long-term disability, business accident insurance, and group legal insurance. </p>\n <p>Employees may be eligible to participate in the Company’s consolidated retirement plan (pension) and savings plan (401(k)). </p>\n <p>This position is eligible to participate in the Company’s long-term incentive program. </p>\n <p>Employees are eligible for the following time off benefits: </p>\n <ul>\n  <li>Vacation – up to 120 hours per calendar year </li>\n  <li>Sick time - up to 40 hours per calendar year; for employees who reside in the State of Washington – up to 56 hours per calendar year </li>\n  <li>Holiday pay, including Floating Holidays – up to 13 days per calendar year </li>\n  <li>Work, Personal and Family Time - up to 40 hours per calendar year </li>\n </ul>\n <p>Additional information can be found through the link below. </p>\n <p>For additional general information on Company benefits, please go to: - https://www.careers.jnj.com/employee-benefits<br> </p>\n <p></p>\n <p>Johnson &amp; Johnson is an Affirmative Action and Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, age, national origin, or protected veteran status and will not be discriminated against on the basis of disability.</p>\n <br> \n <p></p>\n <p>For more information on how we support the whole health of our employees throughout their wellness, career and life journey, please visit www.careers.jnj.com .]</p>\n</div>\n<p></p>",
+          "remoteLocation": false,
+          "remoteWorkModel": {},
+          "jobTypes": [
+            {
+              "customClassLabels": [],
+              "customClassSuids": [],
+              "label": "Full-time",
+              "sentiment": "UNKNOWN",
+              "suid": "CF3CP"
+            }
+          ],
+          "shiftsAndSchedule": [
+            "Holidays"
+          ],
+          "benefitsModel": [
+            "401(k)",
+            "Dental insurance",
+            "Disability insurance",
+            "Health insurance",
+            "Life insurance",
+            "Vision insurance"
+          ]
+        },
+        "jobMetadata": {
+          "age": "6 days ago",
+          "source": "Johnson & Johnson",
+          "originalJobLink": "https://www.indeed.com/applystart?jk=78a18a84ea663460&from=vj&pos=top&mvj=0&spon=0&sjdu=YmZE5d5THV8u75cuc0H6Y26AwfY51UOGmh3Z9h4OvXi6UmQ5JA2Vt3juuEoEYlbJETVKw8BGF-GU8dPfzxZZ_2FqaX6ru7rZxZ9UK6--pEYeJLdGxOj_ETSrzNgTx_KyGTnjMqx4Z1VyCsNzidZ89nATQS_z0wD6C_y-TC8EVl8rnNxpwpZzKq1rmdhIzSEqCITeI_Azw3KcSOf4X9Vh1Q&vjfrom=vjs&asub=mob&astse=59a746784983aa60&assa=264",
+          "phoneNumber": null,
+          "postedToday": false,
+          "numOfCandidate": null,
+          "urgentlyHiring": false,
+          "jobUrl": "https://indeed.com/viewjob?jk=78a18a84ea663460&from=native"
+        },
+        "language": "en",
+        "locale": "en_US",
+        "salaryGuide": {
+          "formattedLocation": "Santa Clara, CA",
+          "estimatedSalary": null,
+          "country": "US"
+        },
+        "salaryInfo": {
+          "salaryMax": 150000,
+          "salaryMin": 136000,
+          "salaryType": "YEARLY",
+          "salaryText": "$136,000 - $150,000 a year",
+          "indeedEstimateText": null,
+          "salarySource": "EXTRACTION"
+        },
+        "relatedLinks": [
+          {
+            "href": "/q-firmware-engineer-l-santa-clara,-ca-jobs.html",
+            "linkText": "Firmware Engineer jobs in Santa Clara, CA",
+            "what": "Firmware Engineer",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/q-johnson-&-johnson-l-santa-clara,-ca-jobs.html",
+            "linkText": "Jobs at Johnson & Johnson in Santa Clara, CA",
+            "what": "Johnson & Johnson",
+            "where": "Santa Clara, CA"
+          },
+          {
+            "href": "/salary?q1=Firmware+Engineer&l1=Santa+Clara%2C+CA",
+            "linkText": "Firmware Engineer salaries in Santa Clara, CA",
+            "what": "Firmware Engineer",
+            "where": "Santa Clara, CA"
+          }
+        ],
+        "additionalLinks": {},
+        "sponsored": false
+      }
+    ]
+  },
+  "attemptsStarted": 1,
+  "attemptsMade": 1,
+  "delay": 0,
+  "timestamp": 1717626234357,
+  "finishedOn": 1717626270786,
+  "processedOn": 1717626234358
+}

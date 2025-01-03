@@ -1,0 +1,11 @@
+{
+  "search_term": "web",
+  "location": "mumbai",
+  "results_wanted": 5,
+  "site_name": ["indeed", "linkedin", "zip_recruiter", "glassdoor"],
+  "distance": 50,
+  "job_type": "fulltime",
+  "is_remote": false,
+  "linkedin_fetch_description": false,
+  "hours_old": 72
+}
